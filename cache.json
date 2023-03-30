@@ -84,6 +84,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.",
+          "link": "https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/",
+          "publishedOn": "2023-03-29T12:00:00.000Z",
+          "wordCount": 3740,
+          "title": "Fine-Grained Access Handling And Data Management With Row-Level Security",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/access-handling-data-management-row-level-security/access-handling-data-management-row-level-security.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/access-handling-data-management-row-level-security/access-handling-data-management-row-level-security.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Design handoffs are inefficient and painful. They cause frustration, friction and a lot of back and forth. Can we avoid them altogether? Of course we can! Let’s see how to do just that.",
@@ -292,36 +307,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/vue-case-study-migrating-headless-cms-system/meta-vue-case-study-migrating-headless-cms-system.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
-          "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4870,
-          "title": "Daydreaming In March (2023 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-cal-800px-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "In the ever-evolving design tools landscape, it can be difficult to keep up with the latest and greatest. In this article, we’ll take a closer look at Penpot, the first design and prototyping tool that’s fully open-source and based on open web standards, making it an ideal choice for both designers and developers.",
-          "link": "https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/",
-          "publishedOn": "2023-02-28T08:00:00.000Z",
-          "wordCount": 4204,
-          "title": "Meet Penpot, An Open-Source Design Platform Made For Designers And Developers Alike",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/meet-penpot-open-source-design-platform-designers-developers/meta-meet-penpot-open-source-design-platform-designers-developers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/meet-penpot-open-source-design-platform-designers-developers/meta-meet-penpot-open-source-design-platform-designers-developers.jpg"
         }
       ]
     },
@@ -330,6 +315,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-code-a-simple-game/",
+          "author": "Shane Duggan",
+          "description": "Have you ever wanted to create your own game to share with others on your website? In this article, we'll be learning how to code a simple game using HTML, CSS, and JavaScript, and then host it on your website.  The game we'll be coding is a classic word-guessing",
+          "link": "https://www.freecodecamp.org/news/how-to-code-a-simple-game/",
+          "publishedOn": "2023-03-29T23:41:54.000Z",
+          "wordCount": 4441,
+          "title": "How to Code a Simple Game and Host it on Your Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Purple-Modern-Gaming-Background-Futuristic-Game-Zone-Desktop-Wallpaper--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/",
+          "author": "Destiny Erhabor",
+          "description": "A common issue on development teams is that an application might work on one developer’s computer but not on the others. Luckily, there's Docker, a popular containerization technology. It works by packing up all the components needed to run the application and then executing the application in an isolated environment.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/",
+          "publishedOn": "2023-03-29T21:53:05.000Z",
+          "wordCount": 1799,
+          "title": "How to Build and Push Dockerized Applications to the Azure Registry",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-163726--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/context-api-in-react/",
+          "author": "Dickson Boateng",
+          "description": "Managing state is an essential part of developing applications in React. A common way to manage state is by passing props. Passing props means sending data from one component to another. It's a good way to make sure that data gets to the right place in a React application.",
+          "link": "https://www.freecodecamp.org/news/context-api-in-react/",
+          "publishedOn": "2023-03-29T20:04:36.000Z",
+          "wordCount": 2356,
+          "title": "How to Use the React Context API in Your Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/context-api-cover-main.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "Google Apps Script allows you to write code in your spreadsheet. It functions like Visual Basic for Applications (VBA) does in Excel. They're both incredibly useful for executing more complicated actions or for automating repetitive tasks. In this article, I'll give you a brief overview of Google Apps Script by",
+          "link": "https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/",
+          "publishedOn": "2023-03-29T19:55:52.000Z",
+          "wordCount": 1673,
+          "title": "How to Use Google Apps Script Code to Clear Data Ranges in Google Sheets",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fcc-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/",
+          "author": "Dillion Megida",
+          "description": "Usually, when developers use the JSON.stringify() method, the second argument is usually skipped, or with a value null. But this argument has its relevance. Here's a common example usage of JSON.stringify(): const obj = {   name: \"Dillion\",   language: \"JavaScript\",   age: 100,   isEngineer:",
+          "link": "https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/",
+          "publishedOn": "2023-03-29T17:43:00.000Z",
+          "wordCount": 1476,
+          "title": "Why is the Second Argument in JSON.stringify() usually null?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/24.-json-stringify-null.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/",
+          "author": "Beau Carnes",
+          "description": "Are you preparing for a technical programming interview for a software engineering role? If so, you might want to check out this new informative video, which features a mock full-length, real-world coding technical interview. This is a full-length interview between Keith Gali and Kylie Ying. Keith, who is an experienced",
+          "link": "https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/",
+          "publishedOn": "2023-03-29T14:28:02.000Z",
+          "wordCount": 908,
+          "title": "Software Engineering Job Interview – Full Mock Interview",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/software-mock.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/slicing-and-indexing-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Slicing and indexing are two fundamental concepts in Python. They help you access specific elements in a sequence, such as a list, tuple or string.  By using these techniques, you can extract substrings from strings, filter lists, and extract columns from 2D lists, among other things.  Understanding how",
+          "link": "https://www.freecodecamp.org/news/slicing-and-indexing-in-python/",
+          "publishedOn": "2023-03-29T14:26:25.000Z",
+          "wordCount": 1918,
+          "title": "Slicing and Indexing in Python – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Sabi.JPG"
+        },
         {
           "id": "https://www.freecodecamp.org/news/flutter-app-development-create-a-twitter-clone/",
           "author": "Beau Carnes",
