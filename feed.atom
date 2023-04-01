@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufan93.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T02:30:41.498Z</updated>
+    <updated>2023-04-01T02:23:53.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yufan93.github.io/rss/index.html"/>
     <link rel="self" href="https://yufan93.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kotlin VS Java – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/kotlin-vs-java-whats-the-difference/</id>
+        <link href="https://www.freecodecamp.org/news/kotlin-vs-java-whats-the-difference/"/>
+        <updated>2023-03-31T20:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Java is a widely popular programming language that has been used for years in various domains, including web development, mobile app development, desktop applications, and game development.  On the other hand, Kotlin is a relatively new programming language that has been gaining popularity in recent years. Both languages are]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insertion Sort Algorithm - Most Asked Questions About Insertion Sort]]></title>
+        <id>https://www.freecodecamp.org/news/most-asked-questions-about-insertion-sort-algorithm/</id>
+        <link href="https://www.freecodecamp.org/news/most-asked-questions-about-insertion-sort-algorithm/"/>
+        <updated>2023-03-31T19:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Sorting algorithms are an essential part of computer science. There are many sorting algorithms used to sort data. The insertion sort algorithm is one of the most basic and simple sorting algorithms. It is an efficient algorithm for small input sizes or for partially sorted data. The algorithm works by]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Paraphrasing Tool with ReactJs & ChatGPT Turbo]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-paraphrasing-tool-with-reactjs-chatgpt-turbo/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-paraphrasing-tool-with-reactjs-chatgpt-turbo/"/>
+        <updated>2023-03-31T17:51:04.000Z</updated>
+        <summary type="html"><![CDATA[In a world where online content is growing exponentially, it's more important than ever to produce unique content that stands out. Paraphrasing tools can offer a quick solution to help you develop unique ideas and create original content. With the help of ReactJs and ChatGPT Turbo, developers can build a]]></summary>
+        <author>
+            <name>Idris Olubisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS Sum of an Array – How to Add the Numbers in a JavaScript Array]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-numbers-in-javascript-arrays/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-numbers-in-javascript-arrays/"/>
+        <updated>2023-03-31T17:45:12.000Z</updated>
+        <summary type="html"><![CDATA[An array in JavaScript is an object that allows you to store an ordered collection of multiple values under a single variable name and manipulate those values in numerous ways. In this article, you will learn how to calculate the sum of all the numbers in a given array using]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comments Inside JSON – Commenting in a JSON File]]></title>
+        <id>https://www.freecodecamp.org/news/comments-in-json/</id>
+        <link href="https://www.freecodecamp.org/news/comments-in-json/"/>
+        <updated>2023-03-31T15:10:51.000Z</updated>
+        <summary type="html"><![CDATA[JSON (JavaScript Object Notation) is a popular data interchange format used in web development and mobile applications due to its simplicity and flexibility. But JSON files do not officially support comments. This makes providing additional context or explanation for the data challenging. This article will show you how to include]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Include an Empty String in RegEx]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/"/>
+        <updated>2023-03-31T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Regular expressions (RegEx or RegExp for short) are a sequence of characters that define a search pattern. You can use them to search, replace, and validate the strings of a text in a wide variety of applications, such as text editors, developer tools, and command line tools. RegEx is also]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swing Into April (2023 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/</id>
+        <link href="https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/"/>
+        <updated>2023-03-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With April just around the corner, we have a new collection of desktop and mobile wallpapers waiting for you to celebrate the beginning of the new month. Designed by creatives from all across the globe, the wallpapers come in versions with and without a calendar. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 248 期）：不要夸大 ChatGPT]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html</id>
@@ -892,41 +962,6 @@ Managing Fonts in WordPress Block Themes originally published on CSS-Tricks, whi
 Everything You Need to Know About the Gap After the List Marker originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving From Vue 1 To Vue 2 To Vue 3: A Case Study Of Migrating A Headless CMS System]]></title>
-        <id>https://smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/</id>
-        <link href="https://smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/"/>
-        <updated>2023-03-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Elisabeth Wieser-Linhart explores its potential benefits and drawbacks and shares what considerations and steps were involved in the process of migrating the front-end interface of Storyblok’s headless content management system.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lisi Linhart)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOTA！目标检测开源框架YOLOv6 3.0版本来啦]]></title>
-        <id>https://tech.meituan.com/2023/03/02/yolov6-sota-real-time-object-detection-on-coco.html</id>
-        <link href="https://tech.meituan.com/2023/03/02/yolov6-sota-real-time-object-detection-on-coco.html"/>
-        <updated>2023-03-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. 概述
-1 月 6 日，美团视觉智能部发布了 YOLOv6 3.0 版本，再一次将目标检测的综合性能推向新高。本次更新除了对 YOLOv6-N/S/M/L 模型进行全系列升级之外，还推出了大分辨率 P6 模型。其中，YOLOv6-L6 检测精度达到 57.2% AP，在 T4 卡上推理速度可达 29 FPS，超越 YOLOv7-E6E，取得当前实时目标检测榜单 SOTA。
-技术报告：YOLOv6 v3.0: A Full-Scale Reloading
-YOLOv6 Github 传送门：https://github.com/meituan/YOLOv6，欢迎 Star 收藏，随时取用。
-
-
-注：YOLOv6 系列模型均在训练 300epoch 且不使用预训练模型或额外检测数据集下获得，“‡” 表示采用了自蒸馏算法，“＊” 表示从官方代码库对发布模型进行重新测评的指标。以上速度指标均在 T4 TRT7.2 环境下测试。
-2. 关键技术介绍
-本次更新主要在 Neck 网络设计、训练和蒸馏策略等方面进行了创新和优化：
-
-设计了表征能力更强的可重参化双向融合 PAN（RepBi-PAN）Neck 网络；
-提出了全新的锚点辅助训练（Anchor-Aided Training）策略；
-提出了解耦定位蒸馏（Decoupled Location Distillation）策略以提升小模型的性能。
-
-2.1 表征能力更强的 RepBi-PAN Neck 网络
-有效的多尺度特征融合网络对目标检测的效果尤为关键。特征金字塔网络 (FPN) 通过自上而下的路径来融合来自骨干网络不同 Stage 的输出特征以弥补网络学习过程中目标位置信息的损失。鉴于单向信息流传输的局限性，PANet 在 FPN 之上添加了一个额外的自底向上路径。 BiFPN 为不同的输入特征引入了可学习的权重，并简化了 PA…]]></summary>
-        <author>
-            <name>美团技术团队</name>
         </author>
     </entry>
 </feed>
