@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufan93.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-09T02:23:34.292Z</updated>
+    <updated>2023-04-10T02:20:36.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yufan93.github.io/rss/index.html"/>
     <link rel="self" href="https://yufan93.github.io/rss/feed.atom"/>
@@ -1240,17 +1240,6 @@ DevOps 出现后，"构建基础架构"这一职责逐渐消失，变成了采�
 Making Calendars With Accessibility and Internationalization in Mind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Mads Stoumann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Mistakes I Made When Starting My First React Project]]></title>
-        <id>https://css-tricks.com/?p=377098</id>
-        <link href="https://css-tricks.com/5-mistakes-starting-react/"/>
-        <updated>2023-03-10T16:41:52.000Z</updated>
-        <summary type="html"><![CDATA[You know what it’s like to pick up a new language or framework. Sometimes there’s great documentation to help you find your way through it. But even the best documentation doesn’t cover absolutely everything. And when you work with something …
-5 Mistakes I Made When Starting My First React Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Richard Oliver Bray</name>
         </author>
     </entry>
 </feed>
