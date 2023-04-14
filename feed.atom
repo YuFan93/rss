@@ -2,10 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufan93.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T02:20:49.824Z</updated>
+    <updated>2023-04-14T02:19:44.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yufan93.github.io/rss/index.html"/>
     <link rel="self" href="https://yufan93.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 250 期）：新技术的最大风险]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html"/>
+        <updated>2023-04-14T00:15:40.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+印度的第一家苹果商店，将于4月18日在孟买开张。据报道，苹果公司希望，印度可以成为它的第二大国际市场，并且生产25%的 iPhone。（via）
+本周话题：新技术的最大风险
+这几天，我读到三篇文章，全部是工程师后悔使用了新技术。
+第一篇文章《为什么我们放弃 Elm 语言》。
+
+（说明一下，原文都是英文，为了方便展示，我把截图用"翻译"功能转成了中文。）
+第二篇《GraphQL：从兴奋到幻灭》。
+
+第三篇《为什么我后悔使用 ionic》。
+
+上面三种新技术，都是最近10年诞生的。当时，都号称解决了开发的重大问题，看上去很有希望。 因此，一诞生就成了热点，非常吸引眼球，这些工程师就都采用了。
+我说说这些技术的优点。
+Elm 语言保证网页脚本不再报错。
+GraphQL 只发一个请求，就满足前端的所有数据需求。
+ionic 让你使用任意 JS 框架，开发安卓和苹果的手机应用。
+如果你是前端工程师，一看这些技术特点，大概立刻就会心动。
+但是，当你真把它们用在生产环境，各种问题就会慢慢暴露出来，几年以后你可能就像上面的文章作者一样后悔莫及。
+Elm：最新一次更新是2019年，与当前 JS 生态的融合越来越困难。
+GraphQL：使用后的性能提升不明显，反而使后台架构变得复杂，而且分页、缓存等问题很麻烦。
+ionic：文档不足且混乱，没有社区和生态。
+等到后悔了，想要更换技术栈，就晚了。上车容易下车难，项目都持续投入好几年了，再修改架构谈何容易。
+这件事的教训，就是使用新技术要谨慎。新技术有一个最大风险，往往被忽视，那就是它们没有经过足够的使用，问题都没有暴露出来。
+我记得，有人做过研究，企业软件的成…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Blog with the Ghost API and Next.js]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/"/>
+        <updated>2023-04-13T21:14:46.000Z</updated>
+        <summary type="html"><![CDATA[Ghost CMS is a popular content management system that many devs and companies use to host their blogs.  It has many features and an editor that's highly optimized for writing. You can even build different themes using handlebars.js [https://handlebarsjs.com/]. But if you don't know Handlebars, learning it can be]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The difference between Arrow functions and Normal functions in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/</id>
+        <link href="https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/"/>
+        <updated>2023-04-13T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, there are two types of functions. You have normal functions and arrow functions. Let's explore the difference between them in this article. Arrow functions was introduced in ES6. And it introduced a simple and shorter way to create functions. Here's how to create a normal function, with arguments,]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Live Football Scoreboard in React with Vite and Vitest]]></title>
+        <id>https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/</id>
+        <link href="https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/"/>
+        <updated>2023-04-13T20:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to yet another tutorial [https://www.mihailgaberov.com/] where you will learn how to build a ⚽ scoreboard app in React. This time we will use Vite as our next generation frontend tooling [https://vitejs.dev/] and Vitest [https://vitest.dev/] as a Vite-native unit testing framework.  You will also learn how to leverage React]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Sheets – Learn Advanced Functions by Building a Zelda Dashboard]]></title>
+        <id>https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/</id>
+        <link href="https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/"/>
+        <updated>2023-04-13T17:31:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article we'll build a dashboard inspired by the recipes in Zelda: Breath of the Wild.  Our dashboard will have multiple data validation dropdown selections for us to choose ingredients. By using a =Query() function, we'll then display the recipes that contain any combination of the selected ingredients.]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a LinkedIn Clone]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/"/>
+        <updated>2023-04-13T17:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in learning how to create a social networking site like LinkedIn using React and Firebase? We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to build a LinkedIn clone from start to finish, using the popular front-end library React and]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Software Engineer – 2023 Roadmap]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/"/>
+        <updated>2023-04-13T16:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Software engineers are in high demand these days. They generally command comfortable salaries, and can have a good work-life balance. But what do software engineers do? And how can you become one yourself? In this article, I will explain the tasks and responsibilities of software engineers, and I will go]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call vs Put vs Post – HTTP Request Methods Explained]]></title>
+        <id>https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/</id>
+        <link href="https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/"/>
+        <updated>2023-04-13T14:59:18.000Z</updated>
+        <summary type="html"><![CDATA[The HTTP (Hypertext Transfer Protocol) is the foundation of communication between clients (such as web browsers) and servers (such as web servers) on the World Wide Web. One crucial aspect of HTTP is the request method, which indicates the type of operation the client wants to perform on a resource.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Delete File – How to Remove Files and Folders]]></title>
+        <id>https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/</id>
+        <link href="https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/"/>
+        <updated>2023-04-13T12:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Many programming languages have built-in functionalities for working with files and folders. As a rich programming language with many exciting functionalities built into it, Python is not an exception to that. Python has the OS and Pathlib modules with which you can create files and folders, edit files and folders,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use Bash Scripting to Enhance Your Productivity]]></title>
         <id>https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/</id>
@@ -1390,16 +1506,6 @@ DevOps 出现后，"构建基础架构"这一职责逐渐消失，变成了采�
         <summary type="html"><![CDATA[In this article, William Lyon explores how to build a full stack GraphQL application that takes advantage of the API Routes feature of Next.js API to combine your GraphQL server and front-end React applications into a single framework.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (William Lyon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Leonardo Da Vinci Can Teach Us About Web Design]]></title>
-        <id>https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/</id>
-        <link href="https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/"/>
-        <updated>2023-03-14T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>
