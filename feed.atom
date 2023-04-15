@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufan93.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T02:19:44.409Z</updated>
+    <updated>2023-04-15T02:22:29.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yufan93.github.io/rss/index.html"/>
     <link rel="self" href="https://yufan93.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Conda Channel - What Is a Channel in Conda?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-channel-in-conda/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-channel-in-conda/"/>
+        <updated>2023-04-14T16:36:11.000Z</updated>
+        <summary type="html"><![CDATA[When you install a package in Conda, it is downloaded and extracted from a remote directory using the directory's URL. The directory where these packages are stored is known as a channel. In this article, you'll learn what a channel is, how to use default channels, and how add new]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pretty Print JSON in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-pretty-print-json-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-pretty-print-json-in-python/"/>
+        <updated>2023-04-14T15:38:01.000Z</updated>
+        <summary type="html"><![CDATA[JSON (JavaScript Object Notation) is a popular data interchange format that is widely used in web applications, APIs, and databases. It is a lightweight and human-readable format that is easy to parse and generate.  But when dealing with large and complex JSON data, it can be difficult to read]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does $ Mean in JavaScript? Dollar Sign Operator in JS]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-javascript/"/>
+        <updated>2023-04-14T15:10:37.000Z</updated>
+        <summary type="html"><![CDATA[As you dive into JavaScript code, you may come across the use of a dollar sign ($) in various contexts. In this article, we will explore what the dollar sign means in JavaScript, commonly known as the "dollar sign operator," and how it is used in JavaScript programming. Understanding the]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSONObject.toString() – How to Convert JSON to a String in Java]]></title>
+        <id>https://www.freecodecamp.org/news/jsonobject-tostring-how-to-convert-json-to-a-string-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/jsonobject-tostring-how-to-convert-json-to-a-string-in-java/"/>
+        <updated>2023-04-14T15:05:04.000Z</updated>
+        <summary type="html"><![CDATA[In the world of web applications and services, JSON (JavaScript Object Notation) has become a widely used data format for data exchange between different systems.  In Java, it's common to work with JSON data, and an operation you'll frequently perform is converting a JSON object to a string representation.]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Refresh Page – How to Reload a Page in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-refresh-page-how-to-reload-a-page-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-refresh-page-how-to-reload-a-page-in-js/"/>
+        <updated>2023-04-14T15:01:42.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a versatile programming language that allows developers to create dynamic and interactive web applications. One common task in web development is to refresh or reload a web page, either to update its content or to trigger certain actions. In this article, we will explore different ways to refresh]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is An ACL? Access Control Lists Explained]]></title>
+        <id>https://www.freecodecamp.org/news/a-deep-dive-into-access-control-lists/</id>
+        <link href="https://www.freecodecamp.org/news/a-deep-dive-into-access-control-lists/"/>
+        <updated>2023-04-14T14:43:14.000Z</updated>
+        <summary type="html"><![CDATA[In computing, access control is the concept of limiting or regulating a person or machine's access to certain information or resources.  One of the major mechanisms you use to do that is an access control list (ACL). An ACL is a set of rules for allowing or denying access]]></summary>
+        <author>
+            <name>Chidiadi Anyanwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Initialize a Java List – List of String Initialization in Java]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-initialize-a-java-list/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-initialize-a-java-list/"/>
+        <updated>2023-04-14T14:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Java is a popular programming language widely used for developing robust and scalable applications. One of the essential data structures in Java is a list, which allows developers to store and manipulate a collection of elements. Initializing a list in Java is a crucial step in the development process as]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 250 期）：新技术的最大风险]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html</id>
@@ -120,6 +190,21 @@ ionic：文档不足且混乱，没有社区和生态。
         <summary type="html"><![CDATA[Many programming languages have built-in functionalities for working with files and folders. As a rich programming language with many exciting functionalities built into it, Python is not an exception to that. Python has the OS and Pathlib modules with which you can create files and folders, edit files and folders,]]></summary>
         <author>
             <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人机语音交互场景中的低延迟流式语音识别技术]]></title>
+        <id>https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html</id>
+        <link href="https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html"/>
+        <updated>2023-04-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 前言
+1.1 语音识别技术简介
+人机交互一直都是人工智能大背景下的“热门话题”，语音交互作为人机交互的一个重要分支，具有广泛的应用价值，也被应用到美团的多个业务场景中，如智能客服、电话营销和电话满意度反馈等。而流式语音识别技术是整个交互链条的入口，对交互体验影响巨大。
+常见的语音识别大多都是非流式语音识别技术，它是指模型在用户说完一句话或一段话之后再进行识别。这意味着模型需要等待用户停顿或结束说话才能开始识别，并且只能在用户停顿或结束说话后才能输出完整的识别结果。这样做的缺点是会导致较长的延迟和不连贯的交互。例如，在会议场景中，如果使用非流式语音识别技术，就可能出现会议参与者说了很长时间的话才显示出他们所说的内容，而且可能因为网络延迟或其他原因导致内容显示不全或错误。这样就会影响会议参与者之间的沟通和理解，并且降低会议效率和质量。
+而与之对应的是流式语音识别技术，它是指可以在处理音频流的过程中，支持实时返回识别结果的一类语音识别模型。这意味着模型不需要等待用户说完整句或整段话就可以开始识别，并且可以随着用户说话的进度逐渐输出识别结果。这样做的好处是能够大大减少人机交互过程中语音识别的处理时间，提高用户体验和交互效率。例如，在智能客服场景中，使用流式语音识别技术，就可以实现用户说一句话很快就能获得机器人响应，而不是等到用户说完一段话才给出回答。这样就可以让用户更快地得到满意的解决方案，并且减少用户的等待时间和不满情绪，提升用户满意度。在美团内部的众多业务场景中广泛使用了流式语音识别技术。
+本文将详细阐述团队在语音交互场景中的低延迟流式语音识别方案，目前以该方案形成的技术论文《Peak-First CTC: Reducing the Peak Latency of CTC Models by Applying Peak-First Regularization》已经被语音…]]></summary>
+        <author>
+            <name>美团技术团队</name>
         </author>
     </entry>
     <entry>
@@ -1496,16 +1581,6 @@ DevOps 出现后，"构建基础架构"这一职责逐渐消失，变成了采�
         <summary type="html"><![CDATA[Based on an example of a multilingual app that displays street photography images from Unsplash, Jan Amann explores next-intl to implement all internationalization needs in React Server Components and shares a technique for introducing interactivity with a minimalistic client-side footprint.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jan Amann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack GraphQL With Next.js, Neo4j AuraDB And Vercel]]></title>
-        <id>https://smashingmagazine.com/2023/03/full-stack-graphql-nextjs-neo4j-auradb-vercel/</id>
-        <link href="https://smashingmagazine.com/2023/03/full-stack-graphql-nextjs-neo4j-auradb-vercel/"/>
-        <updated>2023-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, William Lyon explores how to build a full stack GraphQL application that takes advantage of the API Routes feature of Next.js API to combine your GraphQL server and front-end React applications into a single framework.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (William Lyon)</name>
         </author>
     </entry>
 </feed>
