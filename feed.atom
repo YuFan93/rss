@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufan93.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T02:22:29.761Z</updated>
+    <updated>2023-04-16T02:28:06.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yufan93.github.io/rss/index.html"/>
     <link rel="self" href="https://yufan93.github.io/rss/feed.atom"/>
@@ -1534,53 +1534,6 @@ DevOps 出现后，"构建基础架构"这一职责逐渐消失，变成了采�
         <summary type="html"><![CDATA[Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 246 期）：永不丢失的网络身份]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html"/>
-        <updated>2023-03-17T00:02:03.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-由于清洁工人大罢工，巴黎街头本周到处堆积着一袋袋垃圾，行人在其中穿行。如果没人清理垃圾，现代都市可以支撑几天？（via）
-本周话题：永不丢失的网络身份
-1、
-在影视作品中，大家可能都见过这样的情节：某人从昏迷中醒来，丧失了记忆，无论如何想不起来"我是谁"。
-
-他不知道自己的姓名、年龄、住址，没有身份证和其他证物，也没有任何知情人。
-就这样，他变成了一个没有身份的人，丧失了曾经属于自己的一切。
-
-不过，这样的情节已经不多见了，因为现在有 DNA 数据库，查一下 DNA 就知道你是谁。即使查不到本人，也能查到亲戚。
-"我是谁"这个问题，很大程度上已经解决了。你永远是你，你的身份已经不会丢了。
-2、
-但是，人们除了社会身份，现在还有网络身份。网络身份的丢失，才是更现实的问题。
-网络身份就是你的互联网账号。 如果丢失，你就会丧失在该账号下拥有的一切，甚至可能从互联网消失。
-
-以后，影视剧的情节大概会变成下面这样：某人从昏迷中醒来，丧失了记忆，无论如何想不起自己的网名。
-没了网络身份，他在网上的资产、联系人、活动记录，就都丢失了。
-3、
-丢失网络身份的风险，其实比想象的大。
-大家不一定意识到，你的网络身份并不真正属于你， 不仅可能丢失和遗忘，还可能被剥夺。
-现在的互联网服务，一般要求用户使用手机号或邮箱地址注册。这两样东西都不真正属于用户。
-手机号属于电信服务商，邮箱属于邮箱服务商和域名服务商。如果他们收回你的手机号、邮箱、域名，你的网络身份就麻烦了，如果不能更改，很可能丢失。
-4、
-不仅账号的名称不属于你，而且账号的法律所有权也不属于你。
-举例来说，微信账号的所有权属于腾讯公司。微信服务协议的 …]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internationalization In Next.js 13 With React Server Components]]></title>
-        <id>https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/</id>
-        <link href="https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/"/>
-        <updated>2023-03-16T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Based on an example of a multilingual app that displays street photography images from Unsplash, Jan Amann explores next-intl to implement all internationalization needs in React Server Components and shares a technique for introducing interactivity with a minimalistic client-side footprint.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jan Amann)</name>
         </author>
     </entry>
 </feed>
