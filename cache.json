@@ -39,6 +39,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/",
+          "author": "hello@smashingmagazine.com (Adel Khamatov)",
+          "description": "In this article, Adel Khamatov shares a model of color mechanics that he came up with during research on developing UI kits and illustrates an approach to solving related problems with best practices.",
+          "link": "https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/",
+          "publishedOn": "2023-04-19T20:00:00.000Z",
+          "wordCount": 5547,
+          "title": "Color Mechanics In UI Kits",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/color-mechanics-ui-kits/color-mechanics-ui-kits-sharing-image.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/color-mechanics-ui-kits/color-mechanics-ui-kits-sharing-image.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode of The Smashing Podcast, we take a look at design storytelling. What is it, and how can it help us shape digital experiences? Vitaly talks to Chiara Aliotta to find out.",
@@ -187,21 +202,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/overcoming-challenges-content-creation-informational-websites/overcoming-challenges-content-creation-informational-websites.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.",
-          "link": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
-          "publishedOn": "2023-03-21T07:00:00.000Z",
-          "wordCount": 12032,
-          "title": "Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png"
         }
       ]
     },
@@ -210,6 +210,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-network-traffic-is-routed/",
+          "author": "David Clinton",
+          "description": "Moving around the internet – or even over a private local network – requires all kinds of magic wand waving and sorcery.  Or, in sightly more accurate terms, it requires the combination of sophisticated engineering and the existence of key standards, including network ports, the domain Name System (DNS)",
+          "link": "https://www.freecodecamp.org/news/how-network-traffic-is-routed/",
+          "publishedOn": "2023-04-19T22:23:29.000Z",
+          "wordCount": 1392,
+          "title": "How Network Traffic is Routed",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-barry-tan-7994953.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/",
+          "author": "Alberto Gonzalez Rosales",
+          "description": "No matter how experienced of a developer you are, being interviewed for a new job is always stressful. This is certainly true from my own experience.  In my case, I have been working professionally as a Software Developer for two and a half years, and I've had to face",
+          "link": "https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/",
+          "publishedOn": "2023-04-19T21:14:37.000Z",
+          "wordCount": 3773,
+          "title": "Developer Interview Prep – How to Use a Collaborative Approach to Problem-Solving",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/michal-czyz-ALM7RNZuDH8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/",
+          "author": "David Uzondu",
+          "description": "CSS is a powerful language for styling web pages. But when you're designing a website, things like box shadows can be particularly difficult to get right.  In this guide, you will learn how to create your own box shadow generator with React and Vite. Here is a preview [https://shadowgen.vercel.app/]",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/",
+          "publishedOn": "2023-04-19T20:21:04.000Z",
+          "wordCount": 3163,
+          "title": "How to Build a Box Shadow Generator With React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-Image-6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/",
+          "author": "Olasunkanmi Balogun",
+          "description": "State management is essential in today's world of web development. If you do it well, it helps you create apps that are reliable and effective. Firebase [https://firebase.google.com/] is a Backend-as-a-Service platform that has gained popularity along with the emergence of serverless architecture and cloud technologies. And Cloud Firestore [https://firebase.google.com/docs/firestore] is",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/",
+          "publishedOn": "2023-04-19T17:04:27.000Z",
+          "wordCount": 4659,
+          "title": "TypeScript in React – How to Manage State with Firebase Cloud Firestore",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-quintin-gellar-313782.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/",
+          "author": "Beau Carnes",
+          "description": "The world of artificial intelligence is ever-evolving, and the OpenAI API is at the forefront of it. As the technology becomes more sophisticated, it's imperative for developers and enthusiasts to understand and utilize its potential in various applications. We just published an OpenAI API course on the freeCodeCamp.org YouTube channel.",
+          "link": "https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/",
+          "publishedOn": "2023-04-19T15:15:05.000Z",
+          "wordCount": 973,
+          "title": "ChatGPT Course – Use the OpenAI API to Create Five Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/openai.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-godot-for-game-development/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in game development but don't know where to start? The Godot game engine is a popular open-source platform for game development, and our new video course on the freeCodeCamp.org YouTube channel will teach you everything you need to know to create your own platformer game. The course",
+          "link": "https://www.freecodecamp.org/news/learn-godot-for-game-development/",
+          "publishedOn": "2023-04-19T15:06:05.000Z",
+          "wordCount": 843,
+          "title": "Learn Godot for Game Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/godot.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/print-methods-in-java/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you're learning Java, you probably started your coding journey by printing the \"Hello World\" program in the console. And that's a great way to begin – but after that, you need to learn how print methods and functions actually work. Well, this article will show you how those print",
+          "link": "https://www.freecodecamp.org/news/print-methods-in-java/",
+          "publishedOn": "2023-04-19T14:28:53.000Z",
+          "wordCount": 1233,
+          "title": "Print Methods in Java – How to Print to the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/tracy-adams-TEemXOpR3cQ-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-mean-in-regex/",
+          "author": "Kolade Chris",
+          "description": "The $ symbol is one of the most commonly used symbols in RegEx. It is used to match the end of a string. In this article, I’ll show you exactly what the dollar sign ($) does in RegEx and how to use it. What We'll Cover  * What is",
+          "link": "https://www.freecodecamp.org/news/what-does-mean-in-regex/",
+          "publishedOn": "2023-04-19T11:20:42.000Z",
+          "wordCount": 1350,
+          "title": "What Does '$' Mean in RegEx?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/start-graph--10-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-list-is-empty-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A list [/news/how-to-make-a-list-in-python-declare-lists-in-python-example/] is one of the data structures in Python that you can use to store a collection of variables.  In some cases, you have to iterate through and perform an operation on the elements of a list. But you can't loop/iterate through a list if it has",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-list-is-empty-in-python/",
+          "publishedOn": "2023-04-19T04:52:49.000Z",
+          "wordCount": 1097,
+          "title": "Python isEmpty() equivalent – How to Check if a List is Empty in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/kelly-sikkema--1_RZL8BGBM-unsplash--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/",
           "author": "Arunachalam B",
@@ -1532,16 +1622,6 @@
           "publishedOn": "2023-03-23T23:57:41.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 247 期）：扎克伯格的裁员信",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html",
-          "author": null,
-          "description": "互联网公司有一个重要工种，叫做\"运维\"。\n\n\"运维\"的英文是 Operations，简写为 Ops，直译就是\"操作\"，指的是各种服务器操作。\n简单说，运维工程师就是管理服务器、保障代码运行环境的人。\n这是很重要的工作，公司理应非常重视。但是实际上这几年，运维岗位一直在缩减，Ops 工程师被要求转型 DevOps 工程师。据我知道，很多运维工程师其实很苦恼。\n应该怎么看待这种变化？运维有没有前途？将来会怎么发展？\n\n最近，我读到一篇老外的文章，标题就叫《运维的未来是平台工程》。\n\"The future of Ops is platform engineering.\"\n\n作者系统地回答了上面这些问题，认为运维最终将会消失，演变成一种新的工种----\"平台工程\"（platform engineering）。\n我觉得他的文章很有启发，让我对运维的看法清晰了很多，分享给大家。\n一、运维的由来\n最早的时候，并没有运维，程序员同时负责编写和运行软件。\n但是，编写软件和运行软件，其实是两种不同的技能：前者需要熟悉代码，后者需要熟悉服务器。\n互联网软件发展起来以后，这两种技能就逐渐分家了。\n开发工程师负责编写代码，运维工程师负责运行代码（即保障服务器运行环境）。\n二、运维的衰落\n事实证明，开发和运维分家是一个巨大的错误。\n写代码的人不了解服务器环境，管理服务器的人不了解代码在干什么，这样不利于做出优秀的产品，也不利于排查问题。\n因此，有些公司就推动，开发与运维重新合在一起：编写软件的人也要负责运行软件。\n这就是 DevOps 的由来，它等于 Dev（开发）+ Ops（运维）。\n\n另一方面，互联网公司的核心资产和竞争力，更多的是代码，而不是运维。所以，公司也有意愿，把更多的力量投入在开发上，逐步压缩专门的运维团队，积极外包尽可能多的基础设施。\n这两方面因素决定了，运维作为一个单独的工种，正在逐渐消失。\n三、DevOps 的问题\n但是，DevOps 实际上没有办法取代运维。\n越来越复杂的业务，注定了系统和基础设施也越来越复杂，同时还必须稳定可靠。\n普通的开发工程师，根本不可能做到这一点。他既不了解所有基础设施，也达不到专业运维的系统管理水平。\n这种情况下，公司就会选择外包，采购外部的云服务，把基础设施外包给专业的云服务商， 最大化压缩自身成本。\n四、运维的职责\n虽然总体上，运维是管理服务器，但是可以细分成两方面的职责：构建基础架构 + 管理运行环境。\n\"构建基础架构\"指的是硬件的采购、安装、上架、联网这些工作。\n\"管理运行环境\"指的是保障业务软件的运行。\nDevOps 出现后，\"构建基础架构\"这一职责逐渐消失，变成了采购云服务，\"管理运行环境\"这一职责则是转给了 DevOps 工程师。\n于是，新的问题出现了：谁负责采购和整合云服务？\n五、平台工程是什么\n采购合适的云服务，并不是一件简单的事情。\n云服务纷繁复杂，各种 API、SDK 和配套工具令人眼花缭乱，即使经验丰富的运维工程师也不容易说清楚。\n因此，需要有专职人员来做出正确决策，选择一套满足需要的云服务，并且负责编写工具，整合所有采购来的云服务，供业务开发使用。\n这种角色就叫做平台工程，他负责评估、采购、整合各种云服务，作为自身的基础设施，并在外部云服务基础上构建自己的平台，让开发工程师能够在其上自助服务，将自己的代码投入生产。\n上面的定义有几个要点。\n（1）基础设施是外包的，以求成本和开发周期最小化。\n（2）平台工程师负责整合外包的基础设施，构建成一个平台。\n（3）开发工程师在该平台上，自主搭建和管理运行环境，自己运行代码。\n六、平台工程与运维的区别\n平台工程与运维，存在几个显著区别。\n（1）平台工程需要开发软件，包括编写测试和代码审核，团队的运作方式很像开发团队，有产品经理、甚至设计师和前端工程师。\n运维一般不开发应用软件，最多就是写一些自动化脚本。\n以前，有的工程师写代码，有的工程师跑代码。今后，所有工程师都编写代码，并且运行自己的代码，不管你是开发工程师、DevOps 工程师或者平台工程师，不同之处只在于按层或功能划分的职责范围不同。\n（2）平台工程是云原生的，所有工作都存在于云上。\n运维不是云原生的，需要自己管理硬件，只能说是支持云的。\n（3）平台工程采购云服务，运维采购的是硬件。\n七、运维工程师的出路\n随着传统的运维角色的消失，现有的运维工程师必然面临着转型，不外乎有三种出路可以选择。\n（1）如果喜欢开发业务软件，可以选择成为 DevOps 工程师。\n（2）如果喜欢开发平台软件，可以选择做平台工程，专注于基础设施的整合。\n（3）如果更喜欢硬件和底层，可以选择加入\"基础设施即服务\"（IaaS）的云公司，深入研究基础设施。\n（完）\n文档信息\n版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）\n发表日期： 2023年3月21日",
-          "link": "http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html",
-          "publishedOn": "2023-03-20T23:47:13.000Z",
-          "wordCount": null,
-          "title": "运维的未来是平台工程",
           "imageUrl": null
         }
       ]
