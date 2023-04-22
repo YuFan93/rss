@@ -20,16 +20,6 @@
           "wordCount": 3346,
           "title": "Passkeys: What the Heck and Why?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
-        },
-        {
-          "id": "https://css-tricks.com/?p=377264",
-          "author": "Pankaj Parashar",
-          "description": "I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …\nSome Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/",
-          "publishedOn": "2023-03-22T20:22:42.000Z",
-          "wordCount": 1861,
-          "title": "Some Cross-Browser DevTools Features You Might Not Know",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377264"
         }
       ]
     },
@@ -38,6 +28,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
+          "author": "hello@smashingmagazine.com (Sarah Oke Okolo)",
+          "description": "In this article, Sarah Oke Okolo explores the importance of Web Workers for multithreading on the web, including the limitations and considerations of using them and the strategies for mitigating potential issues associated with them.",
+          "link": "https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
+          "publishedOn": "2023-04-21T10:00:00.000Z",
+          "wordCount": 6224,
+          "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/potential-web-workers-multithreading-web/potential-web-workers-multithreading-web.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/potential-web-workers-multithreading-web/potential-web-workers-multithreading-web.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/",
           "author": "hello@smashingmagazine.com (Tejas Kumar)",
@@ -225,6 +230,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/navigation-in-flutter/",
+          "author": "Arunachalam B",
+          "description": "Almost any app that you design or develop will use some type of navigation.  There are three types of navigation that are common to all apps – stack, tab, and drawer navigation. Flutter supports all three types, and implementing them is similar to how you do it in other",
+          "link": "https://www.freecodecamp.org/news/navigation-in-flutter/",
+          "publishedOn": "2023-04-21T18:10:23.000Z",
+          "wordCount": 2917,
+          "title": "Navigation in Flutter – How to Add Stack, Tab, and Drawer Navigators to Your Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Types-of-Navigations-in-Flutter---Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/",
+          "author": "Natalie Pina",
+          "description": "In CSS, pseudo-classes and pseudo-elements are two types of keywords that you can combine with selectors. They are used to target the element's state or specific parts of an element.  In this article, we'll explore the differences between the two along with their history and best practices. Syntax",
+          "link": "https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/",
+          "publishedOn": "2023-04-21T17:34:29.000Z",
+          "wordCount": 1449,
+          "title": "The Difference Between Pseudo-Classes and Pseudo-Elements in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pseudo-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use an ArrayList in Java to store and manipulate a collection of similar variables.  An ArrayList is just like an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] but offers more flexibility. An ArrayList is more dynamic with the size of the collection, and gives you more control over the elements in a",
+          "link": "https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/",
+          "publishedOn": "2023-04-21T06:34:22.000Z",
+          "wordCount": 1312,
+          "title": "How to Initialize an ArrayList in Java – Declaration with Values",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/java-arraylist-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/",
           "author": "Rahul",
@@ -1594,36 +1629,6 @@
           "wordCount": 1343,
           "title": "Undo Git Add – How to Remove Added Files in Git",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/creating-a-directory-in-python-how-to-create-a-folder/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn how to create new directories (which is another name for folders) in Python. You will also learn how to create a nested directory structure. To work with directories in Python, you first need to include the os module in your project, which allows you",
-          "link": "https://www.freecodecamp.org/news/creating-a-directory-in-python-how-to-create-a-folder/",
-          "publishedOn": "2023-03-23T13:39:03.000Z",
-          "wordCount": 1205,
-          "title": "Creating a Directory in Python – How to Create a Folder",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-51191.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/complete-vite-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Vite is a powerful build tool and development server designed to speed up modern web development. We just published a full Vite course on the freeCodeCamp.org YouTube channel that will teach you how to use Vite effectively and efficiently to streamline your web development workflow. Arsalan Khattak developed this course.",
-          "link": "https://www.freecodecamp.org/news/complete-vite-course-for-beginners/",
-          "publishedOn": "2023-03-23T13:20:55.000Z",
-          "wordCount": 1081,
-          "title": "Use Vite to Speed Up Web Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/vite.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
-          "author": "Oluseye Jeremiah",
-          "description": "Hello and welcome to the world of data analysis! If you're considering a career in this field, you're in good company. Data analysis is a growing and exciting field that's becoming increasingly important in today's data-driven world. Let's face it, we're all drowning in data these days. From social media",
-          "link": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
-          "publishedOn": "2023-03-23T00:06:48.000Z",
-          "wordCount": 3406,
-          "title": "How to Get Started in Data Analytics – A Roadmap for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/dataa.JPG"
         }
       ]
     },
@@ -1632,6 +1637,16 @@
       "feedUrl": "https://rsshub.app/meituan/tech/home",
       "siteUrl": "https://tech.meituan.com/feed/",
       "articles": [
+        {
+          "id": "https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html",
+          "author": "美团技术团队",
+          "description": "1. 问题背景和思考\n1.1 问题背景\n在一次排查线上告警的过程中，突然发现一个链路信息有点不同寻常（这里仅展示测试复现的内容）：\n\n在机器中可以清楚的发现“2022-08-02 19:26:34.952 DXMsgRemoteService ”这一行日志信息并没有携带TraceId，导致调用链路信息戛然而止，无法追踪当时的调用情况。\n1.2 问题复现和思考\n在处理完线上告警后，我们开始分析“丢失”的TraceId到底去了哪里？首先在代码中定位TraceId没有追踪到的部分，发现问题出现在一个@Async注解下的方法，删除无关的业务信息代码，并增加MTrace埋点方法后的复现代码如下：\n@SpringBootTest\n@RunWith(SpringRunner.class)\n@EnableAsync\npublic class DemoServiceTest extends TestCase {\n@Resource\nprivate DemoService demoService;\n@Test\npublic void testTestAsy() {\nTracer.serverRecv(\"test\");\nString mainThreadName = Thread.currentThread().getName();\nlong mainThreadId = Thread.currentThread().getId();\nSystem.out.println(\"------We got main thread: \"+ mainThreadName + \" - \" +  mainThreadId + \"  Trace Id: \" + Tracer.id() + \"----------\");\ndemoService.testAsy();\n}\n}\n@Component\npublic cl…",
+          "link": "https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html",
+          "publishedOn": "2023-04-20T00:00:00.000Z",
+          "wordCount": 893,
+          "title": "一次「找回」TraceId的问题分析与过程思考",
+          "imageUrl": null
+        },
         {
           "id": "https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html",
           "author": "美团技术团队",
@@ -1650,16 +1665,6 @@
           "publishedOn": "2023-04-06T00:00:00.000Z",
           "wordCount": 199,
           "title": "基于AI+数据驱动的慢查询索引推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tech.meituan.com/2023/03/23/recommendation-multi-scenario-task.html",
-          "author": "美团技术团队",
-          "description": "随着推荐算法技术的不断发展，跨场景学习已经受到了越来越多的研究人员的关注。美团到餐算法团队受到业界相关技术的启发，不断探索到店餐饮多场景推荐的优化问题，在多场景多任务学习的推荐领域中积累了较多的应用经验。团队使用到店餐饮全域推荐场景数据训练统一的多场景多任务学习模型，减少了重复性开发，并在多个到店餐饮推荐场景进行落地，取得了较为显著的效果。\n本文详细阐述了美团到店餐饮业务中多场景多任务学习的解决方案，基于该方案形成的学术论文《HiNet: Novel Multi-Scenario & Multi-Task Learning with Hierarchical Information Extraction》已经被国际数据工程会议ICDE 2023收录。\n1. 背景\n随着网络信息和服务的爆炸式增长，推荐系统已经成为为用户提供高质量个性化决策建议和体验的关键组件。传统的推荐系统，模型服务通常需要为特定场景单独进行定制化的开发，以适配不同场景下数据分布和特征空间的差异。然而在美团等工业互联网平台中通常存在多种多样的推荐场景（例如首页信息流、垂类子频道等）作用于用户访问的决策链路，同时基于每个场景的个性化推荐模型再对展示项目进行排序最终呈现给用户。\n在美团到店餐饮（以下简称到餐）平台中，伴随业务精细化的发展趋势，越来越多的场景需要对推荐系统进行定制化的建设，以满足用户到店就餐的个性化需求。如下图1所示，现实中用户往往会在多个不同场景之间进行浏览、点击，并最终成交。\n\n但随着推荐场景数量的增加，传统地针对单个场景独立开发推荐模型，往往会导致如下问题：\n\n仅根据单场景自身的数据进行建模，无法利用到用户在跨场景中丰富的行为信息，忽视了场景共性信息，特别是考虑到多种场景中可能会存在重复展示的商品（在上图1中，红色矩形框圈中的其实是相同的商品）。\n一些长尾的业务场景由于流量较小且用户行为较为稀…",
-          "link": "https://tech.meituan.com/2023/03/23/recommendation-multi-scenario-task.html",
-          "publishedOn": "2023-03-23T00:00:00.000Z",
-          "wordCount": 673,
-          "title": "ICDE 2023 | 多场景多任务学习在美团到店餐饮推荐的实践",
           "imageUrl": null
         }
       ]
