@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufan93.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T02:23:40.767Z</updated>
+    <updated>2023-04-23T02:32:23.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yufan93.github.io/rss/index.html"/>
     <link rel="self" href="https://yufan93.github.io/rss/feed.atom"/>
@@ -1699,88 +1699,6 @@ ChatGPT 有其局限，很多事情它做不到。有人说，ChatGPT 标志着�
         <summary type="html"><![CDATA[Sometimes, when you visit a website, you'll notice that certain elements or a particular section gets revealed dynamically as you scroll.  It's like the contents of that particular section weren't available to view until you scrolled into the section – but now, because you're there, the website decides to]]></summary>
         <author>
             <name>Mwendwa Bundi Emma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 247 期）：扎克伯格的裁员信]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html"/>
-        <updated>2023-03-23T23:57:41.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-2019年建成的陕西宝鸡"太白山之眼"，是一个巨型的钢结构，高度达到20层楼（含底部钢架）。它不仅能喷水，还能喷火，集合了声光电表演，将音乐喷泉推向了一个新高度。（via）
-本周话题：扎克伯格的裁员信
-去年11月，Meta 公司宣布大裁员，解雇13%的员工，大约11,000人。
-过了四个月，上周二（3月14日），该公司突然宣布，还有第二轮，再解雇大约10,000人。
-
-今天，我们不讨论裁员这件事本身，只说说扎克伯克的裁员信。
-裁员信公开发在 Meta 官网，我建议大家读一下，里面有一些有意思的内容。
-
-大部分的裁员信，都是假惺惺的例行公事，"由于市场形势的变化，我们不得不做出一个艰难的决定......"。但是，这封信不一样。
-扎克伯克详细解释了，他对公司管理的想法，以及下一步的打算。如果你想了解硅谷巨头的内部情况，这封信可以提供不少信息。
-首先，他直言不讳地说，上一次裁员的效果很好， 公司效率提高了。
-"自从我们去年裁员以来，一个令人惊讶的结果是许多事情进展得更快了。回想起来，我低估了优先级较低的项目的间接成本。"
-为什么员工少了，项目反而进展快了？
-扎克伯格的解释是，裁员使得公司大量取消低优先级的项目，集中资源到最重要的事情上面。
-下面这段话，我认为非常精彩。
-"人们很容易认为，只要一个项目产生的价值超过其直接成本，它就是正收益的。
-但是，任何项目都需要一个主管，我们要么提拔一个工程师，要么从另一个项目挑选一个人，让其负责该项目。这两种情况都分散了人才，并且创造出了更多的管理层。
-如果项目继续发展，整个团队也许分散到多个楼层或多个办公室，这让沟通变得更加困难。
-我们还需要为项目配备更多…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Where Contains String – Substring Query Example]]></title>
-        <id>https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/</id>
-        <link href="https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/"/>
-        <updated>2023-03-23T22:36:06.000Z</updated>
-        <summary type="html"><![CDATA[If you’re working with a database, whether large or small, there might be occasions when you need to search for some entries containing strings. In this article, I’ll show you how to locate strings and substrings in MySQL and SQL Server. I‘ll be using a table I call products_data in]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Reveal on Scroll in React using the Intersection Observer API]]></title>
-        <id>https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/</id>
-        <link href="https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/"/>
-        <updated>2023-03-23T22:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking for an elegant way to reveal content on your React website as users scroll down the page? Look no further than the Intersection Observer API. In this article, you’ll learn how to implement the reveal on scroll effect in React using Intersection Observer. This will allow you]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Remove from List – How to Remove an Item from a List in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/</id>
-        <link href="https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/"/>
-        <updated>2023-03-23T18:27:48.000Z</updated>
-        <summary type="html"><![CDATA[A list in Python is a collection of items that are ordered and changeable. It is one of the most versatile and frequently used data structures in Python.  A list can contain any type of data, such as integers, strings, floats, and even other lists. In Python, lists are]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Undo Git Add – How to Remove Added Files in Git]]></title>
-        <id>https://www.freecodecamp.org/news/undo-git-add-how-to-remove-added-files-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/undo-git-add-how-to-remove-added-files-in-git/"/>
-        <updated>2023-03-23T18:27:08.000Z</updated>
-        <summary type="html"><![CDATA[Git is a powerful version control and collaboration tool. It allows developers to work together seamlessly on projects. But even the most experienced developers can make mistakes while using Git, such as accidentally adding files that were not meant to be committed. This can be a problem, especially if the]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overcoming The Challenges Of Content Creation For Informational Websites]]></title>
-        <id>https://smashingmagazine.com/2023/03/overcoming-challenges-content-creation-informational-websites/</id>
-        <link href="https://smashingmagazine.com/2023/03/overcoming-challenges-content-creation-informational-websites/"/>
-        <updated>2023-03-23T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Content matters! Unfortunately, when it comes to informational websites, content quality is often poor. There is no magic answer to fix that. However, there are practical techniques you can use to improve the copy on your websites and ensure your users find the content they are looking for.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
