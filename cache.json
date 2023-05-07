@@ -1534,86 +1534,6 @@
           "wordCount": 1924,
           "title": "What is Docker Compose? How to Use it with an Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/What-is-Docker-compose-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Conda is an open-source package management and environment management system that can be used to create different, isolated coding environments.  With Conda, you can create separate environments for specific projects. You can have one environment for machine learning and another environment for data analytics. Each environment can have its",
-          "link": "https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/",
-          "publishedOn": "2023-04-07T05:11:54.000Z",
-          "wordCount": 856,
-          "title": "Conda Remove Environment – How to Delete an Env",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/lewis-kang-ethe-ngugi-f5pTwLHCsAg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/upload-files-with-javascript/",
-          "author": "Austin Gil",
-          "description": "I recently published a tutorial showing how to upload files with HTML [https://austingil.com/uploading-files-with-html/]. That's great, but it's a bit limited to using the native browser form behavior, which causes the page to refresh. In this tutorial, I want to show you how to do the same thing with JavaScript [https://austingil.com/category/javascript/]",
-          "link": "https://www.freecodecamp.org/news/upload-files-with-javascript/",
-          "publishedOn": "2023-04-06T20:27:40.000Z",
-          "wordCount": 1824,
-          "title": "How to Upload Files with JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/JavaScript-Blog-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/multi-dimensional-arrays-in-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Multi-dimensional arrays, also known as matrices, are a powerful data structure in Python. They allow you to store and manipulate data in multiple dimensions or axes.  You'll commonly use these types of arrays in fields such as mathematics, statistics, and computer science to represent and process structured data, such",
-          "link": "https://www.freecodecamp.org/news/multi-dimensional-arrays-in-python/",
-          "publishedOn": "2023-04-06T17:28:05.000Z",
-          "wordCount": 1654,
-          "title": "Multi-Dimensional Arrays in Python – Matrices Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/gids.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-http/",
-          "author": "Rufai Mustapha",
-          "description": "Without HTTP (Hypertext Transfer Protocol), the World Wide Web as we know it today would not exist. HTTP is the protocol that enables the transfer of data over the internet, allowing users to access websites and other online resources. There are various ways to design web applications, including GraphQL, SOAP,",
-          "link": "https://www.freecodecamp.org/news/what-is-http/",
-          "publishedOn": "2023-04-06T16:53:26.000Z",
-          "wordCount": 2533,
-          "title": "What is HTTP? Protocol Overview for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/http--5-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hello-world-in-java/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are learning a programming language, the first thing you do is print something in the terminal/command prompt.  And that first thing is likely printing \"Hello World\" in the terminal. So that's what I'll show you how to do here if you are learning Java for the first",
-          "link": "https://www.freecodecamp.org/news/hello-world-in-java/",
-          "publishedOn": "2023-04-06T16:08:13.000Z",
-          "wordCount": 1331,
-          "title": "Java for Beginners – How to Create Your First \"Hello World\" Program",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/altumcode-XMFZqrGyV-Q-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linq-advanced-c-sharp-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Are you a C# developer looking to enhance your skills in data manipulation and querying? Do you want to learn how to query and manipulate data from various sources using the power of Language Integrated Query (LINQ)? We are excited to introduce our latest video course on the freeCodeCamp.org YouTube",
-          "link": "https://www.freecodecamp.org/news/linq-advanced-c-sharp-tutorial/",
-          "publishedOn": "2023-04-06T15:45:49.000Z",
-          "wordCount": 1023,
-          "title": "Mastering LINQ: Unlock the Power of Advanced C# Data Manipulation",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/linq.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-functions-in-c/",
-          "author": "Valentine Gatwiri",
-          "description": "Functions are an essential component of the C programming language. They help you divide bigger problems into smaller, more manageable chunks of code, making it simpler to create and run programs.  We'll look at functions in C, their syntax, and how to use them successfully in this article. What",
-          "link": "https://www.freecodecamp.org/news/how-to-use-functions-in-c/",
-          "publishedOn": "2023-04-06T14:20:12.000Z",
-          "wordCount": 2567,
-          "title": "How to Use Functions in C - Explained With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/guillaume-bolduc-uBe2mknURG4-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-to-know-about-gpt-4/",
-          "author": "Kaushal Joshi",
-          "description": "We are living through an AI revolution. The AI industry is constantly evolving, with new tools, products, and technologies emerging every day.  For those not familiar with the AI domain, keeping up with these developments can be challenging. The biggest news recently is undoubtedly GPT-4. Everyone from my barber",
-          "link": "https://www.freecodecamp.org/news/what-to-know-about-gpt-4/",
-          "publishedOn": "2023-04-06T14:15:36.000Z",
-          "wordCount": 2708,
-          "title": "What to Know About GPT-4 for Non-AI Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/gpt-4.gif"
         }
       ]
     },
@@ -1687,16 +1607,6 @@
           "publishedOn": "2023-04-14T00:15:40.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 250 期）：新技术的最大风险",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n江苏淮安在人工湿地上，种植了万亩水杉，形成了一个水上森林景区。坐着木筏进入森林内部，感觉很梦幻。（via）\n本周话题：最成功的软件企业家\n谁是全世界最成功的软件企业家？\n不管标准是什么，弗兰克·斯洛特曼 (Frank Slootman) 一定在名单里面。\n\n他是云计算公司 Snowflake 的 CEO，在此之前，还担任过另外两家软件公司（Data Domain 和 Service Now）的 CEO。\n这三家公司都从零起步，然后做得很大。尤其是 Snowflake，属于业内的明星公司，市值现在达到500亿美元。\n\n弗兰克·斯洛特曼的厉害之处，就是这三家公司的上市，都发生在他的任内。\n他到底做了什么，让死亡率极高的软件创业公司活下来，每一家都成功上市？\n\n去年，他出版了一本书，介绍他怎么管理软件公司。书名叫做《Amp it up》，直译就是\"加强\"，即如何让公司变得更好。\n这本书还没有中文版，但是他本人的其他文章以及书评，已经透露了一些主要做法。\n看到这些措施，我不由倒吸一口冷气。别看照片上他很温和，一旦管理起公司，手腕真是非常强硬，不输给华为。\n\"我们的公司是海军陆战队，不是和平队。平静的生活不属于我们。像我们这样的创业公司，每天都要为了生存而与巨头对抗。我们是偏执狂，时时刻刻感到生存受威胁。加入我们，你必须有战斗心态。\"\n下面我就分享他的做法，你看看厉害不厉害。\n（1）加快节奏，时刻要求员工以更快的速度完成工作。\n如果你说一周后可以有结果，他就问你为什么不能明天或后天出结果？这倒不是因为着急，而是他要增加所有人的紧迫感。\n公司变大了，就会行动迟缓，不愿意冒险。只有加快节奏，才能让公司…",
-          "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html",
-          "publishedOn": "2023-04-07T00:10:23.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 249 期）：最成功的软件企业家",
           "imageUrl": null
         }
       ]
