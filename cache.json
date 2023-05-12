@@ -29,6 +29,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/boost-design-workflow-setapp/",
+          "author": "hello@smashingmagazine.com (Rachel How)",
+          "description": "In this guide, we’ll explore efficient tools to save time and speed up your workflow. Focus on what you do best — designing high-quality work, and let these tools handle the rest!",
+          "link": "https://smashingmagazine.com/2023/05/boost-design-workflow-setapp/",
+          "publishedOn": "2023-05-11T14:00:00.000Z",
+          "wordCount": 4491,
+          "title": "How To Boost Your Design Workflow With Setapp",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/boost-design-workflow-time-saving-tools-setapp/boost-design-workflow-setapp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/boost-design-workflow-time-saving-tools-setapp/boost-design-workflow-setapp.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
           "author": "hello@smashingmagazine.com (Deepak Kumar)",
           "description": "The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.",
@@ -267,21 +282,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/what-is-design-thinking/what-is-design-thinking-sharing-image.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/design-effective-user-onboarding-flow/",
-          "author": "hello@smashingmagazine.com (Suzanne Scacca)",
-          "description": "If you want to maximize conversions or collect necessary user information for other purposes, a user onboarding flow is necessary. In this article, you will learn how, with the help of Feathery, to design an effective user onboarding flow for your app.",
-          "link": "https://smashingmagazine.com/2023/04/design-effective-user-onboarding-flow/",
-          "publishedOn": "2023-04-11T18:00:00.000Z",
-          "wordCount": 4986,
-          "title": "How To Design An Effective User Onboarding Flow",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/design-effective-user-onboarding-flow/design-effective-user-onboarding-flow.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/design-effective-user-onboarding-flow/design-effective-user-onboarding-flow.jpg"
         }
       ]
     },
@@ -290,6 +290,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/number-systems-in-java/",
+          "author": "Mikael Lassa",
+          "description": "Knowing how to work with numbers is essential in programming. Java supports four number systems that are used for various purposes – the decimal, binary, octal, and hexadecimal systems.  Understanding what these number systems are and when to use them is an important skill for any Java programmer.",
+          "link": "https://www.freecodecamp.org/news/number-systems-in-java/",
+          "publishedOn": "2023-05-11T21:54:41.000Z",
+          "wordCount": 1730,
+          "title": "How Number Systems Work in Java – Decimal, Binary, Octal, and Hexadecimal Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/number-systems.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-merge-dictionaries-merging-two-dicts-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Dictionaries are one of the built-in data structures in Python. You can use them to store data in key-value pairs.  You can read about the different methods you can use to access, modify, add, and remove elements in a dictionary here [/news/python-dictionary-methods-dictionaries-in-python/].  In this article, you'll learn how",
+          "link": "https://www.freecodecamp.org/news/python-merge-dictionaries-merging-two-dicts-in-python/",
+          "publishedOn": "2023-05-11T21:51:40.000Z",
+          "wordCount": 1625,
+          "title": "Python Merge Dictionaries – Merging Two Dicts in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/hannah-busing-Zyx1bK9mqmA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/",
+          "author": "Oluwatise Okuwobi",
+          "description": "JavaScript is a popular programming language among web developers. But when it was first released, only front end developers enjoyed all of the fun it had to offer, since you couldn't run JavaScript outside the browser. But then in 2009, the first version of Node.js was released. Node is a",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-files-in-node-js/",
+          "publishedOn": "2023-05-11T21:16:58.000Z",
+          "wordCount": 2138,
+          "title": "How to Work with Files in Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/working-with-files.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/go-programming-video-course/",
+          "author": "Beau Carnes",
+          "description": "We are excited to announce a new comprehensive Go programming video course on the freeCodeCamp.org YouTube channel. Our mission is to provide easy access to the most sought-after tech skills, and this course is our latest endeavor to fulfill that mission. Go: The Language of the Future Go, or Golang,",
+          "link": "https://www.freecodecamp.org/news/go-programming-video-course/",
+          "publishedOn": "2023-05-11T13:53:03.000Z",
+          "wordCount": 1064,
+          "title": "The Ultimate Go Programming Video Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/golang.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/artificial-intelligence-vs-machine-learning/",
           "author": "Edem Gold",
@@ -1629,56 +1669,6 @@
           "wordCount": 1537,
           "title": "How to Apply Borders to Clip Paths with CSS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screen-Shot-2023-04-05-at-7.04.59-PM-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use Conda to create and manage different environments and their packages. It is mostly used for data science and machine learning projects.  In this article, you'll learn how to remove an environment's package using in built Conda commands.  You'll learn the following:   * How",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/",
-          "publishedOn": "2023-04-12T12:21:34.000Z",
-          "wordCount": 942,
-          "title": "Conda Remove Package - How To Remove Matplotlib in Anaconda",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Arrays and lists are two of the most commonly used data structures in Python.  You can use both arrays and lists to store collections of values, but they have some key differences.  For example, arrays are more efficient than lists for certain operations, such as mathematical operations on",
-          "link": "https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/",
-          "publishedOn": "2023-04-12T00:04:30.000Z",
-          "wordCount": 1137,
-          "title": "How to Convert a List to an Array and Back in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/dare.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-validate-forms-in-react/",
-          "author": "Yazdun Fadali",
-          "description": "If you've ever worked with form validation in React, you know that it can quickly become messy and overwhelming. This is especially the case if you're just starting out with React.  In this tutorial, I will show you how to create reusable React components that allow you to build",
-          "link": "https://www.freecodecamp.org/news/how-to-validate-forms-in-react/",
-          "publishedOn": "2023-04-11T19:08:00.000Z",
-          "wordCount": 4761,
-          "title": "How to Validate Forms in React – A Step-By-Step Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/thumbnail.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/network-architecture-basics/",
-          "author": "David Clinton",
-          "description": "Networking is engineering, magic, and skilled trade all rolled into one. Getting all the countless pieces to talk nicely – and reliably – to each other is complicated. Troubleshooting unexpected outages is worse.  But, once you've got it all running nicely, well that's when you should really be worried:",
-          "link": "https://www.freecodecamp.org/news/network-architecture-basics/",
-          "publishedOn": "2023-04-11T19:05:27.000Z",
-          "wordCount": 1447,
-          "title": "Network Architecture Basics",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-brett-sayles-2881232.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-javascript-object-oriented-programming/",
-          "author": "Miya Liu",
-          "description": "In this article, you will learn JavaScript object-oriented programming by creating a simple timer application. Object-oriented programming is an important programming paradigm. It organizes code into objects which makes it easier to manage and maintain your applications. Many articles explain in detail the benefits of object-oriented programming and how you",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-object-oriented-programming/",
-          "publishedOn": "2023-04-11T17:06:00.000Z",
-          "wordCount": 5592,
-          "title": "Learn JavaScript Object-Oriented Programming by Building a Timer Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/---.jpg"
         }
       ]
     },
@@ -1714,6 +1704,16 @@
       "feedUrl": "http://feeds.feedburner.com/ruanyifeng",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n昆明市教场中路罕见地采用蓝花楹作为行道树，四月底进入了开花期，道路变成了一片紫色花海。（via）\n本周话题：人生是一个长板问题\n大家可能听说过\"水桶原理\"：水桶的容量由最短的那块木板决定。\n\n它的意思是，某些系统的关键，不在于发展最强点，而在于避免最弱点。99%的地方都没有问题，只要1%的地方出现问题，整个系统就会失败。\n人体健康就是这样，有一个器官出现严重问题，哪怕其他器官完全正常，生活甚至生命就会受到影响。\n这类由短板决定的问题，统称为\"短板问题\"。日常生活有很多这样的例子，除了人体健康，还有食品安全，只要有一样成份不干净，你可能就会食物中毒。\n汽车、电视机、手机等消费品也是这样，只要有一个部件不合格，这个产品就有质量问题。\n但是，这不是今天的主题。我最近读到一篇文章，才意识到除了短板问题，还有长板问题。\n\"长板问题\"指的是，问题的关键不在于最弱点，而在于最强点。 只要有一个点特别出色，这件事情就成功了，其他点的好坏无所谓。\n文艺作品就属于这种情况。你购买了一张专辑，其他的歌曲都不爱听，但是有一首歌你特别喜欢，这张专辑就值得了。电影和小说只要有一个角色或情节特别打动人，作品就成功了。\n风险投资也是这样，只要投了一个特别成功的项目，就能把所有损失补回来。\n最重要的是，人生就是一个\"长板问题\"。 一生中，失败和挫折其实不重要，多少次都不重要，只要有一次大的成功，人生就成功了。\n最大的那一次成功，决定了你一生的成就和高度。很多诺贝尔奖得主，一生就做出了一个重要的科学发现，就足够成为伟大科学家了。\n程序员写过多少代码不重要，只要创造过一个重大影响力的软件，职业生涯就成功了。\n我们必须学会区分…",
+          "link": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html",
+          "publishedOn": "2023-05-12T00:07:46.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 254 期）：人生是一个长板问题",
+          "imageUrl": null
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html",
           "author": null,
