@@ -10,24 +10,28 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=377305",
-          "author": "Neal Fennimore",
-          "description": "These things called passkeys sure are making the rounds these days. They were a main attraction at W3C TPAC 2022, gained support in Safari 16, are finding their way into macOS and iOS, and are slated to …\nPasskeys: What the Heck and Why? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/passkeys-what-the-heck-and-why/",
-          "publishedOn": "2023-04-12T17:41:53.000Z",
-          "wordCount": 3346,
-          "title": "Passkeys: What the Heck and Why?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.",
+          "link": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
+          "publishedOn": "2023-05-12T11:00:00.000Z",
+          "wordCount": 3901,
+          "title": "Designing Sticky Menus: UX Guidelines",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/05/boost-design-workflow-setapp/",
           "author": "hello@smashingmagazine.com (Rachel How)",
@@ -290,6 +294,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "author": "Faith Oyama",
+          "description": "Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a",
+          "link": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "publishedOn": "2023-05-12T20:46:41.000Z",
+          "wordCount": 2133,
+          "title": "Advanced Indexing Strategies in PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/postresql-indexing.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "According to the Oxford English Dictionary, \"greedy\" means having excessive desire for something without considering the effect or damage done.  In computer science, a greedy algorithm is an algorithm that finds a solution to problems in the shortest time possible. It picks the path that seems optimal at the",
+          "link": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "publishedOn": "2023-05-12T17:57:48.000Z",
+          "wordCount": 4298,
+          "title": "What is a Greedy Algorithm? Examples of Greedy Algorithms",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-206627.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "author": "Palistha",
+          "description": "A Linked List is a linear data structure used for storing a collection of elements. Unlike arrays, linked lists use nodes to store elements which are not stored in contiguous memory locations.  In this article, you will learn what linked lists are, how they work, and how to build",
+          "link": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "publishedOn": "2023-05-12T17:45:27.000Z",
+          "wordCount": 2730,
+          "title": "How Does a Linked List Work? A Beginner's Guide to Linked Lists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-joey-kyber-119562.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/number-systems-in-java/",
           "author": "Mikael Lassa",
@@ -1629,46 +1663,6 @@
           "wordCount": 1944,
           "title": "Call vs Put vs Post – HTTP Request Methods Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
-          "author": "Kolade Chris",
-          "description": "Many programming languages have built-in functionalities for working with files and folders. As a rich programming language with many exciting functionalities built into it, Python is not an exception to that. Python has the OS and Pathlib modules with which you can create files and folders, edit files and folders,",
-          "link": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
-          "publishedOn": "2023-04-13T12:24:56.000Z",
-          "wordCount": 1419,
-          "title": "Python Delete File – How to Remove Files and Folders",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pyDeleteFilesAndFolders.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Bash scripting is an essential skill for any developer, system administrator, or power user who wants to automate repetitive tasks and make their workflow more efficient. We just published a bash scripting for beginners course on the freeCodeCamp.org YouTube channel. Herbert from Herbertech created this course. In this course, you'll",
-          "link": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
-          "publishedOn": "2023-04-12T20:52:38.000Z",
-          "wordCount": 835,
-          "title": "Use Bash Scripting to Enhance Your Productivity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/bashscrippting.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
-          "author": "Beau Carnes",
-          "description": "Firebase is an app development platform from Google that offers tools and services for building and scaling applications. It includes real-time databases, authentication, analytics, and hosting features. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a mobile app with HTML, CSS,",
-          "link": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
-          "publishedOn": "2023-04-12T20:46:42.000Z",
-          "wordCount": 962,
-          "title": "Create Mobile Apps with Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Slide-16_9---4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
-          "author": "Michael Frederick",
-          "description": "Applying borders to non-rectangular shapes in CSS can be challenging. In this article, we will explore ways to apply different border types to trapezoidal shapes in CSS.  The final shape we aim to achieve is a golden dashed parallelogram border, as you can see in the screenshot below: Parallelogram",
-          "link": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
-          "publishedOn": "2023-04-12T17:46:38.000Z",
-          "wordCount": 1537,
-          "title": "How to Apply Borders to Clip Paths with CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screen-Shot-2023-04-05-at-7.04.59-PM-1.png"
         }
       ]
     },
@@ -1678,6 +1672,16 @@
       "siteUrl": "https://tech.meituan.com/feed/",
       "articles": [
         {
+          "id": "https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html",
+          "author": "美团技术团队",
+          "description": "本文整理自主题分享《美团数据库的高可用系统》，系超大规模数据库集群保稳系列的第一篇文章。对数据库而言，非常核心的就是如何保证其高可用性。本文围绕4个方面的内容展开，包括高可用简介、高可用部署、重点模块的设计思考以及对未来思考。希望能够对大家有所帮助或启发。\n| B站视频：美团数据库高可用系统\n00 出品人说\n在数据库集群规模迅速扩大的背景下，如果出现故障，如何快速恢复成百甚至数千个集群的数据和服务，是很多大型互联网企业面临的重要挑战。线上部署了几十万的微服务，数据库结构和拓扑随时在发生变更，系统重构、内核升级、硬件设备汰换、机房搬迁等等，也都会对数据库的稳定工作产生一定的影响。作为整个IT系统中最为重要、最为底层的服务，即便遇到了极小概率事件的冲击，也会造成非常大的影响。对美团数据库团队来说，”低垂的果实已经摘完”，我们开始着力应对这些小概率事件对业务造成的冲击。\n数据库稳定性保障的破局之道：一方面是提升平均无故障间隔（MTTF），另一方面是提升应急响应能力，即缩短平均修复时间（MTTR）。在这个两个目标的指引下，美团数据库团队从能力驱动和故障驱动两个维度来构造整个稳定性保障的闭环体系。\n从能力驱动的角度，我们借鉴了Google的稳定性保障体系。在最底部的三层，通过故障演练/预案建设、复盘、可观测性的维度，思考怎么缩短故障处理时长；中间四层更多的是围绕研发需求、设计、上线、变更管控来降低故障的发生概率；顶层是产品运营，即通过面向内部用户的运营，指导业务对数据库进行选型和合理的使用，不断提升产品和平台易用性，并针对业务特点提供相应的解决方案。\n从故障驱动的角度来说，包含事前预防和发现，事中故障定位，事后恢复、复盘和改进等等。从事前、事中、事后的全生命周期以及软件开发的各个阶段，全面提升管控和应急响应能力。\n\n基于过去多年保稳定方面的实践，本次沙龙将从如何提升进攻和防守能力，如…",
+          "link": "https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html",
+          "publishedOn": "2023-05-11T00:00:00.000Z",
+          "wordCount": 77,
+          "title": "超大规模数据库集群保稳系列之一：高可用系统",
+          "imageUrl": null
+        },
+        {
           "id": "https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html",
           "author": "美团技术团队",
           "description": "1. 问题背景和思考\n1.1 问题背景\n在一次排查线上告警的过程中，突然发现一个链路信息有点不同寻常（这里仅展示测试复现的内容）：\n\n在机器中可以清楚的发现“2022-08-02 19:26:34.952 DXMsgRemoteService ”这一行日志信息并没有携带TraceId，导致调用链路信息戛然而止，无法追踪当时的调用情况。\n1.2 问题复现和思考\n在处理完线上告警后，我们开始分析“丢失”的TraceId到底去了哪里？首先在代码中定位TraceId没有追踪到的部分，发现问题出现在一个@Async注解下的方法，删除无关的业务信息代码，并增加MTrace埋点方法后的复现代码如下：\n@SpringBootTest\n@RunWith(SpringRunner.class)\n@EnableAsync\npublic class DemoServiceTest extends TestCase {\n@Resource\nprivate DemoService demoService;\n@Test\npublic void testTestAsy() {\nTracer.serverRecv(\"test\");\nString mainThreadName = Thread.currentThread().getName();\nlong mainThreadId = Thread.currentThread().getId();\nSystem.out.println(\"------We got main thread: \"+ mainThreadName + \" - \" +  mainThreadId + \"  Trace Id: \" + Tracer.id() + \"----------\");\ndemoService.testAsy();\n}\n}\n@Component\npublic cl…",
@@ -1685,16 +1689,6 @@
           "publishedOn": "2023-04-20T00:00:00.000Z",
           "wordCount": 893,
           "title": "一次「找回」TraceId的问题分析与过程思考",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html",
-          "author": "美团技术团队",
-          "description": "1. 前言\n1.1 语音识别技术简介\n人机交互一直都是人工智能大背景下的“热门话题”，语音交互作为人机交互的一个重要分支，具有广泛的应用价值，也被应用到美团的多个业务场景中，如智能客服、电话营销和电话满意度反馈等。而流式语音识别技术是整个交互链条的入口，对交互体验影响巨大。\n常见的语音识别大多都是非流式语音识别技术，它是指模型在用户说完一句话或一段话之后再进行识别。这意味着模型需要等待用户停顿或结束说话才能开始识别，并且只能在用户停顿或结束说话后才能输出完整的识别结果。这样做的缺点是会导致较长的延迟和不连贯的交互。例如，在会议场景中，如果使用非流式语音识别技术，就可能出现会议参与者说了很长时间的话才显示出他们所说的内容，而且可能因为网络延迟或其他原因导致内容显示不全或错误。这样就会影响会议参与者之间的沟通和理解，并且降低会议效率和质量。\n而与之对应的是流式语音识别技术，它是指可以在处理音频流的过程中，支持实时返回识别结果的一类语音识别模型。这意味着模型不需要等待用户说完整句或整段话就可以开始识别，并且可以随着用户说话的进度逐渐输出识别结果。这样做的好处是能够大大减少人机交互过程中语音识别的处理时间，提高用户体验和交互效率。例如，在智能客服场景中，使用流式语音识别技术，就可以实现用户说一句话很快就能获得机器人响应，而不是等到用户说完一段话才给出回答。这样就可以让用户更快地得到满意的解决方案，并且减少用户的等待时间和不满情绪，提升用户满意度。在美团内部的众多业务场景中广泛使用了流式语音识别技术。\n本文将详细阐述团队在语音交互场景中的低延迟流式语音识别方案，目前以该方案形成的技术论文《Peak-First CTC: Reducing the Peak Latency of CTC Models by Applying Peak-First Regularization》已经被语音…",
-          "link": "https://tech.meituan.com/2023/04/13/low-latency-streaming-speech-recognition-in-human-computer-speech-interaction-scenarios.html",
-          "publishedOn": "2023-04-13T00:00:00.000Z",
-          "wordCount": 485,
-          "title": "人机语音交互场景中的低延迟流式语音识别技术",
           "imageUrl": null
         }
       ]
