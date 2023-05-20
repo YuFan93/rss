@@ -271,36 +271,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/potential-web-workers-multithreading-web/potential-web-workers-multithreading-web.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/",
-          "author": "hello@smashingmagazine.com (Tejas Kumar)",
-          "description": "Dockerizing your Node.js apps can lead to smashing success—offering consistency, easy debugging, and hassle-free dependency management. When you host this container on Kinsta, you also benefit from high-speed performance, robust security, and top-notch scalability. By combining these two, you'll surely have a whale of a time as you sail smoothly through the development seas.",
-          "link": "https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/",
-          "publishedOn": "2023-04-20T12:00:00.000Z",
-          "wordCount": 4262,
-          "title": "Building And Dockerizing A Node.js App With Stateless Architecture With Help From Kinsta",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-dockerizing-nodejs-app-stateless-architecture-kinsta/building-dockerizing-nodejs-app-stateless-architecture-kinsta.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-dockerizing-nodejs-app-stateless-architecture-kinsta/building-dockerizing-nodejs-app-stateless-architecture-kinsta.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/",
-          "author": "hello@smashingmagazine.com (Adel Khamatov)",
-          "description": "In this article, Adel Khamatov shares a model of color mechanics that he came up with during research on developing UI kits and illustrates an approach to solving related problems with best practices.",
-          "link": "https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/",
-          "publishedOn": "2023-04-19T20:00:00.000Z",
-          "wordCount": 5547,
-          "title": "Color Mechanics In UI Kits",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/color-mechanics-ui-kits/color-mechanics-ui-kits-sharing-image.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/color-mechanics-ui-kits/color-mechanics-ui-kits-sharing-image.jpg"
         }
       ]
     },
@@ -309,6 +279,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/react-server-components-for-beginners/",
+          "author": "Adwaith KS",
+          "description": "React Server Components have been generating significant buzz and excitement lately. They've recently been adopted as the default option in Next.js 13, so now more and more developers are using them. React Server Components seamlessly blend server-side rendering with the interactivity of client-side JavaScript. And in this tutorial, you'll learn",
+          "link": "https://www.freecodecamp.org/news/react-server-components-for-beginners/",
+          "publishedOn": "2023-05-19T20:31:21.000Z",
+          "wordCount": 3164,
+          "title": "How to Use React Server Components – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-panumas-nikhomkhai-1148820--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Pandas is a library built on the Python programming language. You can use it to analyze and manipulate data. A dataframe is two-dimensional data structure in Pandas that organizes data in a tabular format with rows and columns.  In this article, you'll learn how to get the number of",
+          "link": "https://www.freecodecamp.org/news/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe/",
+          "publishedOn": "2023-05-19T15:11:58.000Z",
+          "wordCount": 1568,
+          "title": "Pandas Count Rows – How to Get the Number of Rows in a Dataframe",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/nacho-capelo-hMXuZrfmCWM-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/state-management-in-react-props-vs-context-api/",
+          "author": "Jaja Ibifubara David",
+          "description": "Figuring out state management in React applications can feel like trying to find your way through a labyrinth. You'll constantly be searching for the most efficient, scalable, and maintainable solution.  The journey often leads to two primary paths: Using Props or the Context API. As you embark on this",
+          "link": "https://www.freecodecamp.org/news/state-management-in-react-props-vs-context-api/",
+          "publishedOn": "2023-05-19T14:31:28.000Z",
+          "wordCount": 3915,
+          "title": "State Management in React –Props vs the Context API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Cover-Image-2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/",
           "author": "David Clinton",
@@ -1568,86 +1568,6 @@
           "wordCount": 1549,
           "title": "Python Copy File – Copying Files to Another Directory",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/maksym-kaharlytskyi-Q9y3LRuuxmg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-react/",
-          "author": "Musab Habeeb",
-          "description": "A lot of web developers use React as their go-to library for building UI components for their websites. React is one of the most popular frameworks for web development and it is written entirely in JavaScript. Since React was written in JavaScript, it uses a lot of the JavaScript concepts",
-          "link": "https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-react/",
-          "publishedOn": "2023-04-20T00:30:00.000Z",
-          "wordCount": 2596,
-          "title": "JavaScript Concepts to Know Before Learning React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Seven-JavaScript-Concepts-to-master-before-React--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-network-traffic-is-routed/",
-          "author": "David Clinton",
-          "description": "Moving around the internet – or even over a private local network – requires all kinds of magic wand waving and sorcery.  Or, in sightly more accurate terms, it requires the combination of sophisticated engineering and the existence of key standards, including network ports, the domain Name System (DNS)",
-          "link": "https://www.freecodecamp.org/news/how-network-traffic-is-routed/",
-          "publishedOn": "2023-04-19T22:23:29.000Z",
-          "wordCount": 1392,
-          "title": "How Network Traffic is Routed",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-barry-tan-7994953.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/",
-          "author": "Alberto Gonzalez Rosales",
-          "description": "No matter how experienced of a developer you are, being interviewed for a new job is always stressful. This is certainly true from my own experience.  In my case, I have been working professionally as a Software Developer for two and a half years, and I've had to face",
-          "link": "https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/",
-          "publishedOn": "2023-04-19T21:14:37.000Z",
-          "wordCount": 3773,
-          "title": "Developer Interview Prep – How to Use a Collaborative Approach to Problem-Solving",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/michal-czyz-ALM7RNZuDH8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/",
-          "author": "David Uzondu",
-          "description": "CSS is a powerful language for styling web pages. But when you're designing a website, things like box shadows can be particularly difficult to get right.  In this guide, you will learn how to create your own box shadow generator with React and Vite. Here is a preview [https://shadowgen.vercel.app/]",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/",
-          "publishedOn": "2023-04-19T20:21:04.000Z",
-          "wordCount": 3163,
-          "title": "How to Build a Box Shadow Generator With React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-Image-6.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/",
-          "author": "Olasunkanmi Balogun",
-          "description": "State management is essential in today's world of web development. If you do it well, it helps you create apps that are reliable and effective. Firebase [https://firebase.google.com/] is a Backend-as-a-Service platform that has gained popularity along with the emergence of serverless architecture and cloud technologies. And Cloud Firestore [https://firebase.google.com/docs/firestore] is",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/",
-          "publishedOn": "2023-04-19T17:04:27.000Z",
-          "wordCount": 4659,
-          "title": "TypeScript in React – How to Manage State with Firebase Cloud Firestore",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-quintin-gellar-313782.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/",
-          "author": "Beau Carnes",
-          "description": "The world of artificial intelligence is ever-evolving, and the OpenAI API is at the forefront of it. As the technology becomes more sophisticated, it's imperative for developers and enthusiasts to understand and utilize its potential in various applications. We just published an OpenAI API course on the freeCodeCamp.org YouTube channel.",
-          "link": "https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/",
-          "publishedOn": "2023-04-19T15:15:05.000Z",
-          "wordCount": 973,
-          "title": "ChatGPT Course – Use the OpenAI API to Create Five Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/openai.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-godot-for-game-development/",
-          "author": "Beau Carnes",
-          "description": "Are you interested in game development but don't know where to start? The Godot game engine is a popular open-source platform for game development, and our new video course on the freeCodeCamp.org YouTube channel will teach you everything you need to know to create your own platformer game. The course",
-          "link": "https://www.freecodecamp.org/news/learn-godot-for-game-development/",
-          "publishedOn": "2023-04-19T15:06:05.000Z",
-          "wordCount": 843,
-          "title": "Learn Godot for Game Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/godot.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/print-methods-in-java/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you're learning Java, you probably started your coding journey by printing the \"Hello World\" program in the console. And that's a great way to begin – but after that, you need to learn how print methods and functions actually work. Well, this article will show you how those print",
-          "link": "https://www.freecodecamp.org/news/print-methods-in-java/",
-          "publishedOn": "2023-04-19T14:28:53.000Z",
-          "wordCount": 1233,
-          "title": "Print Methods in Java – How to Print to the Terminal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/tracy-adams-TEemXOpR3cQ-unsplash.jpg"
         }
       ]
     },
@@ -1657,6 +1577,16 @@
       "siteUrl": "https://tech.meituan.com/feed/",
       "articles": [
         {
+          "id": "https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html",
+          "author": "美团技术团队",
+          "description": "1. 背景\n美团 Robust 是基于方法插桩的实时热修复框架，主要优势是实时生效、零 Hook 兼容所有 Android 版本。2016 年，我们在《Android 热更新方案 Robust》一文中对技术原理做了详细介绍，主要通过给每个方法插入 IF 分支来动态控制代码逻辑，进而实现热修复。其核心主要有两部分：一个是代码插桩，一个是自动补丁。\n\n代码插桩这部分随着 Javassist、ASM 工具的广泛使用，整体方案比较成熟了，迭代改进主要是针对插桩代码体积和性能的优化；\n自动补丁这部分在实际使用过程中一直在迭代，跟业界主流热修复方案一样，自动化补丁工具作制作时机是在 Proguard 混淆之后，由于 Proguard 会对代码进行代码优化和混淆处理，在 Proguard 后制作补丁能够降低补丁生成的复杂性。\n\n近年来， Google 推出了新的代码优化混淆工具 R8，用于取代第三方的代码优化混淆工具 Proguard，经过多年功能迭代和缺陷改进，R8 在功能上基本可以替代 Proguard，在结果上更为出色（优化生成的 Android 字节码体积更小）。Google 已经在新版本的构建工具中强制使用 R8 ，国内外已有多个知名 App 完成了 R8 适配并上线，比如微信 Android 在今年正式从 Proguard 切换到了 R8（通过升级 Android 构建工具链）。Android 热修复补丁制作依赖二次构建包和线上包对比，需要对 Proguard 切换到 R8 提前进行适配和改造，本文分享了美团平台技术部 Robust 在适配 R8 以及优化改进中的一些思路和经验。\n2. 主要挑战\nAndroid 热修复补丁的大致制作流程：首先基于线上代码进行逻辑修复并二次打包，然后补丁生成工具自动比较修复包和线上包的差异，最后制作出轻量的补丁包。因此在补丁制作的过程中，需要解…",
+          "link": "https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html",
+          "publishedOn": "2023-05-18T00:00:00.000Z",
+          "wordCount": 671,
+          "title": "Robust 2.0：支持Android R8的升级版热修复框架",
+          "imageUrl": null
+        },
+        {
           "id": "https://tech.meituan.com/2023/05/11/meituan-high-availability-system.html",
           "author": "美团技术团队",
           "description": "本文整理自主题分享《美团数据库的高可用系统》，系超大规模数据库集群保稳系列的第一篇文章。对数据库而言，非常核心的就是如何保证其高可用性。本文围绕4个方面的内容展开，包括高可用简介、高可用部署、重点模块的设计思考以及对未来思考。希望能够对大家有所帮助或启发。\n| B站视频：美团数据库高可用系统\n00 出品人说\n在数据库集群规模迅速扩大的背景下，如果出现故障，如何快速恢复成百甚至数千个集群的数据和服务，是很多大型互联网企业面临的重要挑战。线上部署了几十万的微服务，数据库结构和拓扑随时在发生变更，系统重构、内核升级、硬件设备汰换、机房搬迁等等，也都会对数据库的稳定工作产生一定的影响。作为整个IT系统中最为重要、最为底层的服务，即便遇到了极小概率事件的冲击，也会造成非常大的影响。对美团数据库团队来说，”低垂的果实已经摘完”，我们开始着力应对这些小概率事件对业务造成的冲击。\n数据库稳定性保障的破局之道：一方面是提升平均无故障间隔（MTTF），另一方面是提升应急响应能力，即缩短平均修复时间（MTTR）。在这个两个目标的指引下，美团数据库团队从能力驱动和故障驱动两个维度来构造整个稳定性保障的闭环体系。\n从能力驱动的角度，我们借鉴了Google的稳定性保障体系。在最底部的三层，通过故障演练/预案建设、复盘、可观测性的维度，思考怎么缩短故障处理时长；中间四层更多的是围绕研发需求、设计、上线、变更管控来降低故障的发生概率；顶层是产品运营，即通过面向内部用户的运营，指导业务对数据库进行选型和合理的使用，不断提升产品和平台易用性，并针对业务特点提供相应的解决方案。\n从故障驱动的角度来说，包含事前预防和发现，事中故障定位，事后恢复、复盘和改进等等。从事前、事中、事后的全生命周期以及软件开发的各个阶段，全面提升管控和应急响应能力。\n\n基于过去多年保稳定方面的实践，本次沙龙将从如何提升进攻和防守能力，如…",
@@ -1664,16 +1594,6 @@
           "publishedOn": "2023-05-11T00:00:00.000Z",
           "wordCount": 77,
           "title": "超大规模数据库集群保稳系列之一：高可用系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html",
-          "author": "美团技术团队",
-          "description": "1. 问题背景和思考\n1.1 问题背景\n在一次排查线上告警的过程中，突然发现一个链路信息有点不同寻常（这里仅展示测试复现的内容）：\n\n在机器中可以清楚的发现“2022-08-02 19:26:34.952 DXMsgRemoteService ”这一行日志信息并没有携带TraceId，导致调用链路信息戛然而止，无法追踪当时的调用情况。\n1.2 问题复现和思考\n在处理完线上告警后，我们开始分析“丢失”的TraceId到底去了哪里？首先在代码中定位TraceId没有追踪到的部分，发现问题出现在一个@Async注解下的方法，删除无关的业务信息代码，并增加MTrace埋点方法后的复现代码如下：\n@SpringBootTest\n@RunWith(SpringRunner.class)\n@EnableAsync\npublic class DemoServiceTest extends TestCase {\n@Resource\nprivate DemoService demoService;\n@Test\npublic void testTestAsy() {\nTracer.serverRecv(\"test\");\nString mainThreadName = Thread.currentThread().getName();\nlong mainThreadId = Thread.currentThread().getId();\nSystem.out.println(\"------We got main thread: \"+ mainThreadName + \" - \" +  mainThreadId + \"  Trace Id: \" + Tracer.id() + \"----------\");\ndemoService.testAsy();\n}\n}\n@Component\npublic cl…",
-          "link": "https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html",
-          "publishedOn": "2023-04-20T00:00:00.000Z",
-          "wordCount": 893,
-          "title": "一次「找回」TraceId的问题分析与过程思考",
           "imageUrl": null
         }
       ]
@@ -1683,6 +1603,16 @@
       "feedUrl": "http://feeds.feedburner.com/ruanyifeng",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n武汉光谷空轨4月26日试运行，总长10.5km，这是国内首列商用的悬挂式轨道列车。虽然知道不会掉下来，看着还是觉得有点惊险。（via） \n本周话题：对待 AI 的正确态度\n这些天，总有人问我，对于\"前端已死\"这个话题怎么看。\n\n我的第一反应是，前端没死啊，很多企业还在招聘呢。\n后来了解了，他们的意思是，前端正在降温，变得萧条，具体表现是技术发展放慢，没有大的热点，业务重要性下降，就业机会减少。\n更让人担心的是，AI 已经能够直接生成页面了，将来会不会替代前端程序员？\n\n我的看法没有这么悲观。现在的情况确实不好，但等过了低谷期，经济恢复了，前端程序员的需求就会上升。\n至于 AI 会不会杀死前端，这个就说不准了，完全取决于 AI 的发展，尽管我是不太相信 AI 能做出复杂页面。\n今天，我就想谈谈，作为程序员怎么面对不确定的未来。 AI 是不确定的，发展完全不受我们的控制。它使得程序员的职业和未来都变得不确定，这种情况下，我们怎么办？\n我正好看到一篇印度程序员的文章，他也在思考这个问题，就决定亲自测试一下，AI 发展到了什么程度。\n他让 ChatGPT 写一个他想要的程序，结果整整花了三个周末不断调整，才勉强写出来，代码可以运行了。\n下面就是他对 AI 的评价。\n\"有时我对 ChatGPT 的理解能力感到惊讶，但是更多时候，我不得不拼命推动它，朝着我想要的方向前进。它有时会产生意料之外的结果，让我感到非常沮丧。\"\n\"它像一个吸收了所有人类知识、但需要别人帮忙才能把这些知识串起来的应届毕业生。\"\n\"看来我今年的工作是安全的。但是，我需要好好学习 ChatGPT，精通它的使用，让我明年也是安全的。\"\n我非…",
+          "link": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html",
+          "publishedOn": "2023-05-19T00:12:46.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 255 期）：对待 AI 的正确态度",
+          "imageUrl": null
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html",
           "author": null,

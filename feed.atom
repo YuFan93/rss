@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufan93.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-19T01:07:34.326Z</updated>
+    <updated>2023-05-20T01:04:27.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yufan93.github.io/rss/index.html"/>
     <link rel="self" href="https://yufan93.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Server Components – A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/react-server-components-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/react-server-components-for-beginners/"/>
+        <updated>2023-05-19T20:31:21.000Z</updated>
+        <summary type="html"><![CDATA[React Server Components have been generating significant buzz and excitement lately. They've recently been adopted as the default option in Next.js 13, so now more and more developers are using them. React Server Components seamlessly blend server-side rendering with the interactivity of client-side JavaScript. And in this tutorial, you'll learn]]></summary>
+        <author>
+            <name>Adwaith KS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandas Count Rows – How to Get the Number of Rows in a Dataframe]]></title>
+        <id>https://www.freecodecamp.org/news/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe/</id>
+        <link href="https://www.freecodecamp.org/news/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe/"/>
+        <updated>2023-05-19T15:11:58.000Z</updated>
+        <summary type="html"><![CDATA[Pandas is a library built on the Python programming language. You can use it to analyze and manipulate data. A dataframe is two-dimensional data structure in Pandas that organizes data in a tabular format with rows and columns.  In this article, you'll learn how to get the number of]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State Management in React –Props vs the Context API]]></title>
+        <id>https://www.freecodecamp.org/news/state-management-in-react-props-vs-context-api/</id>
+        <link href="https://www.freecodecamp.org/news/state-management-in-react-props-vs-context-api/"/>
+        <updated>2023-05-19T14:31:28.000Z</updated>
+        <summary type="html"><![CDATA[Figuring out state management in React applications can feel like trying to find your way through a labyrinth. You'll constantly be searching for the most efficient, scalable, and maintainable solution.  The journey often leads to two primary paths: Using Props or the Context API. As you embark on this]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 255 期）：对待 AI 的正确态度]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html"/>
+        <updated>2023-05-19T00:12:46.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+武汉光谷空轨4月26日试运行，总长10.5km，这是国内首列商用的悬挂式轨道列车。虽然知道不会掉下来，看着还是觉得有点惊险。（via） 
+本周话题：对待 AI 的正确态度
+这些天，总有人问我，对于"前端已死"这个话题怎么看。
+
+我的第一反应是，前端没死啊，很多企业还在招聘呢。
+后来了解了，他们的意思是，前端正在降温，变得萧条，具体表现是技术发展放慢，没有大的热点，业务重要性下降，就业机会减少。
+更让人担心的是，AI 已经能够直接生成页面了，将来会不会替代前端程序员？
+
+我的看法没有这么悲观。现在的情况确实不好，但等过了低谷期，经济恢复了，前端程序员的需求就会上升。
+至于 AI 会不会杀死前端，这个就说不准了，完全取决于 AI 的发展，尽管我是不太相信 AI 能做出复杂页面。
+今天，我就想谈谈，作为程序员怎么面对不确定的未来。 AI 是不确定的，发展完全不受我们的控制。它使得程序员的职业和未来都变得不确定，这种情况下，我们怎么办？
+我正好看到一篇印度程序员的文章，他也在思考这个问题，就决定亲自测试一下，AI 发展到了什么程度。
+他让 ChatGPT 写一个他想要的程序，结果整整花了三个周末不断调整，才勉强写出来，代码可以运行了。
+下面就是他对 AI 的评价。
+"有时我对 ChatGPT 的理解能力感到惊讶，但是更多时候，我不得不拼命推动它，朝着我想要的方向前进。它有时会产生意料之外的结果，让我感到非常沮丧。"
+"它像一个吸收了所有人类知识、但需要别人帮忙才能把这些知识串起来的应届毕业生。"
+"看来我今年的工作是安全的。但是，我需要好好学习 ChatGPT，精通它的使用，让我明年也是安全的。"
+我非…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon EC2 – Understanding and Addressing the Security Problem]]></title>
         <id>https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/</id>
@@ -44,6 +105,24 @@
         <summary type="html"><![CDATA[Regular expressions let you match any string, be it in the form of various user inputs such as username, password, URL, and even different date formats. In this article, I’ll show you several ways you can match a date with regular expressions. In the programming world, there are always multiple]]></summary>
         <author>
             <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robust 2.0：支持Android R8的升级版热修复框架]]></title>
+        <id>https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html</id>
+        <link href="https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html"/>
+        <updated>2023-05-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 背景
+美团 Robust 是基于方法插桩的实时热修复框架，主要优势是实时生效、零 Hook 兼容所有 Android 版本。2016 年，我们在《Android 热更新方案 Robust》一文中对技术原理做了详细介绍，主要通过给每个方法插入 IF 分支来动态控制代码逻辑，进而实现热修复。其核心主要有两部分：一个是代码插桩，一个是自动补丁。
+
+代码插桩这部分随着 Javassist、ASM 工具的广泛使用，整体方案比较成熟了，迭代改进主要是针对插桩代码体积和性能的优化；
+自动补丁这部分在实际使用过程中一直在迭代，跟业界主流热修复方案一样，自动化补丁工具作制作时机是在 Proguard 混淆之后，由于 Proguard 会对代码进行代码优化和混淆处理，在 Proguard 后制作补丁能够降低补丁生成的复杂性。
+
+近年来， Google 推出了新的代码优化混淆工具 R8，用于取代第三方的代码优化混淆工具 Proguard，经过多年功能迭代和缺陷改进，R8 在功能上基本可以替代 Proguard，在结果上更为出色（优化生成的 Android 字节码体积更小）。Google 已经在新版本的构建工具中强制使用 R8 ，国内外已有多个知名 App 完成了 R8 适配并上线，比如微信 Android 在今年正式从 Proguard 切换到了 R8（通过升级 Android 构建工具链）。Android 热修复补丁制作依赖二次构建包和线上包对比，需要对 Proguard 切换到 R8 提前进行适配和改造，本文分享了美团平台技术部 Robust 在适配 R8 以及优化改进中的一些思路和经验。
+2. 主要挑战
+Android 热修复补丁的大致制作流程：首先基于线上代码进行逻辑修复并二次打包，然后补丁生成工具自动比较修复包和线上包的差异，最后制作出轻量的补丁包。因此在补丁制作的过程中，需要解…]]></summary>
+        <author>
+            <name>美团技术团队</name>
         </author>
     </entry>
     <entry>
@@ -1580,139 +1659,6 @@ ChatGPT 有1750亿个参数，那么训练材料最好不少于17500亿个词元
         <summary type="html"><![CDATA[When working with Python, there may be times when you need to copy a file. Copying files comes in handy when you need to create a backup. In this article, you will learn how to copy a file in Python using the shutil  module and its different methods. The]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building And Dockerizing A Node.js App With Stateless Architecture With Help From Kinsta]]></title>
-        <id>https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/</id>
-        <link href="https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/"/>
-        <updated>2023-04-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dockerizing your Node.js apps can lead to smashing success—offering consistency, easy debugging, and hassle-free dependency management. When you host this container on Kinsta, you also benefit from high-speed performance, robust security, and top-notch scalability. By combining these two, you'll surely have a whale of a time as you sail smoothly through the development seas.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tejas Kumar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Concepts to Know Before Learning React]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-react/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-react/"/>
-        <updated>2023-04-20T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A lot of web developers use React as their go-to library for building UI components for their websites. React is one of the most popular frameworks for web development and it is written entirely in JavaScript. Since React was written in JavaScript, it uses a lot of the JavaScript concepts]]></summary>
-        <author>
-            <name>Musab Habeeb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次「找回」TraceId的问题分析与过程思考]]></title>
-        <id>https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html</id>
-        <link href="https://tech.meituan.com/2023/04/20/traceid-google-dapper-mtrace.html"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1. 问题背景和思考
-1.1 问题背景
-在一次排查线上告警的过程中，突然发现一个链路信息有点不同寻常（这里仅展示测试复现的内容）：
-
-在机器中可以清楚的发现“2022-08-02 19:26:34.952 DXMsgRemoteService ”这一行日志信息并没有携带TraceId，导致调用链路信息戛然而止，无法追踪当时的调用情况。
-1.2 问题复现和思考
-在处理完线上告警后，我们开始分析“丢失”的TraceId到底去了哪里？首先在代码中定位TraceId没有追踪到的部分，发现问题出现在一个@Async注解下的方法，删除无关的业务信息代码，并增加MTrace埋点方法后的复现代码如下：
-@SpringBootTest
-@RunWith(SpringRunner.class)
-@EnableAsync
-public class DemoServiceTest extends TestCase {
-@Resource
-private DemoService demoService;
-@Test
-public void testTestAsy() {
-Tracer.serverRecv("test");
-String mainThreadName = Thread.currentThread().getName();
-long mainThreadId = Thread.currentThread().getId();
-System.out.println("------We got main thread: "+ mainThreadName + " - " +  mainThreadId + "  Trace Id: " + Tracer.id() + "----------");
-demoService.testAsy();
-}
-}
-@Component
-public cl…]]></summary>
-        <author>
-            <name>美团技术团队</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Network Traffic is Routed]]></title>
-        <id>https://www.freecodecamp.org/news/how-network-traffic-is-routed/</id>
-        <link href="https://www.freecodecamp.org/news/how-network-traffic-is-routed/"/>
-        <updated>2023-04-19T22:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Moving around the internet – or even over a private local network – requires all kinds of magic wand waving and sorcery.  Or, in sightly more accurate terms, it requires the combination of sophisticated engineering and the existence of key standards, including network ports, the domain Name System (DNS)]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Interview Prep – How to Use a Collaborative Approach to Problem-Solving]]></title>
-        <id>https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/"/>
-        <updated>2023-04-19T21:14:37.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced of a developer you are, being interviewed for a new job is always stressful. This is certainly true from my own experience.  In my case, I have been working professionally as a Software Developer for two and a half years, and I've had to face]]></summary>
-        <author>
-            <name>Alberto Gonzalez Rosales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Box Shadow Generator With React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/"/>
-        <updated>2023-04-19T20:21:04.000Z</updated>
-        <summary type="html"><![CDATA[CSS is a powerful language for styling web pages. But when you're designing a website, things like box shadows can be particularly difficult to get right.  In this guide, you will learn how to create your own box shadow generator with React and Vite. Here is a preview [https://shadowgen.vercel.app/]]]></summary>
-        <author>
-            <name>David Uzondu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Mechanics In UI Kits]]></title>
-        <id>https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/</id>
-        <link href="https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/"/>
-        <updated>2023-04-19T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Adel Khamatov shares a model of color mechanics that he came up with during research on developing UI kits and illustrates an approach to solving related problems with best practices.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adel Khamatov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript in React – How to Manage State with Firebase Cloud Firestore]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/"/>
-        <updated>2023-04-19T17:04:27.000Z</updated>
-        <summary type="html"><![CDATA[State management is essential in today's world of web development. If you do it well, it helps you create apps that are reliable and effective. Firebase [https://firebase.google.com/] is a Backend-as-a-Service platform that has gained popularity along with the emergence of serverless architecture and cloud technologies. And Cloud Firestore [https://firebase.google.com/docs/firestore] is]]></summary>
-        <author>
-            <name>Olasunkanmi Balogun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Course – Use the OpenAI API to Create Five Projects]]></title>
-        <id>https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/</id>
-        <link href="https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/"/>
-        <updated>2023-04-19T15:15:05.000Z</updated>
-        <summary type="html"><![CDATA[The world of artificial intelligence is ever-evolving, and the OpenAI API is at the forefront of it. As the technology becomes more sophisticated, it's imperative for developers and enthusiasts to understand and utilize its potential in various applications. We just published an OpenAI API course on the freeCodeCamp.org YouTube channel.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Godot for Game Development]]></title>
-        <id>https://www.freecodecamp.org/news/learn-godot-for-game-development/</id>
-        <link href="https://www.freecodecamp.org/news/learn-godot-for-game-development/"/>
-        <updated>2023-04-19T15:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Are you interested in game development but don't know where to start? The Godot game engine is a popular open-source platform for game development, and our new video course on the freeCodeCamp.org YouTube channel will teach you everything you need to know to create your own platformer game. The course]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Print Methods in Java – How to Print to the Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/print-methods-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/print-methods-in-java/"/>
-        <updated>2023-04-19T14:28:53.000Z</updated>
-        <summary type="html"><![CDATA[If you're learning Java, you probably started your coding journey by printing the "Hello World" program in the console. And that's a great way to begin – but after that, you need to learn how print methods and functions actually work. Well, this article will show you how those print]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
 </feed>
