@@ -271,21 +271,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-23-the-mushroom-band-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/",
-          "author": "hello@smashingmagazine.com (Yaphi Berhanu)",
-          "description": "Many problems with website layouts happen when we don’t write CSS with the same care we’d use when writing a JavaScript function. Let’s look at how we can borrow best practices and ideas from writing good JavaScript functions for writing CSS.",
-          "link": "https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/",
-          "publishedOn": "2023-04-28T08:00:00.000Z",
-          "wordCount": 4220,
-          "title": "Write Better CSS By Borrowing Ideas From JavaScript Functions",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/write-better-css-borrow-ideas-functions/write-better-css-borrow-ideas-javascript-functions.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/write-better-css-borrow-ideas-functions/write-better-css-borrow-ideas-javascript-functions.jpg"
         }
       ]
     },
@@ -1423,46 +1408,6 @@
           "wordCount": 1965,
           "title": "Digital Intruders – Top Ways Hackers Can Breach Your Smartphone’s Security",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/0_oX7oKDWxr6bwRgXd.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/",
-          "author": "Kolade Chris",
-          "description": "In regular expressions, \"punct\" means punctuation marks. It is all non-word and non-space characters. \"Punct\" is a predefined character class in regular expressions, and you can use it in any regex flavor that supports it. The Punct character class is denoted by \\p{Punct} or simply \\p{P}. It matches any punctuation",
-          "link": "https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/",
-          "publishedOn": "2023-04-28T11:28:37.000Z",
-          "wordCount": 1137,
-          "title": "What is Punct in RegEx? How to Match All Punctuation Marks in Regular Expressions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/matchPunctuationRegEx.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/",
-          "author": "Omer Rosenbaum",
-          "description": "By reading this post, you are going to really understand git merge, one of the most common operations you'll perform in your Git repositories. Notes before we start  1. I also created two videos covering the contents of this post. If you wish to     watch",
-          "link": "https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/",
-          "publishedOn": "2023-04-27T17:07:19.000Z",
-          "wordCount": 8977,
-          "title": "Git Merge – The Definitive Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Git-Merge.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-scrapy-for-web-scraping-in-python/",
-          "author": "Beau Carnes",
-          "description": "Are you tired of manually collecting data from websites? Have you ever wished you could automate the process and gather massive amounts of data in a fraction of the time? We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to scrape websites with Python",
-          "link": "https://www.freecodecamp.org/news/use-scrapy-for-web-scraping-in-python/",
-          "publishedOn": "2023-04-27T15:44:42.000Z",
-          "wordCount": 1017,
-          "title": "Use Scrapy for Web Scraping in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/scrapy.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this tutorial we're going to take a deep dive into REST APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a REST API.",
-          "link": "https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/",
-          "publishedOn": "2023-04-27T13:55:17.000Z",
-          "wordCount": 6753,
-          "title": "The REST API Handbook – How to Build, Test, Consume, and Document REST APIs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pavan-trikutam-71CjSSB83Wo-unsplash.jpg"
         }
       ]
     },
@@ -1546,16 +1491,6 @@
           "publishedOn": "2023-05-05T00:11:13.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 253 期）：训练材料用完之日",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。周刊另有《谁在招人》服务，发布程序员招聘信息。合作推广请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n4月24日，摄影师\"@Jeff的星空之旅\"在新疆克拉玛依拍摄到了极光。当天，太阳发生了剧烈的日冕物质抛射，引发了地球近20年来最大一次地磁暴。（via）\n本周话题：互联网创业变难了\n一个老外发现，2010年以后，美国没有出现过新的大型互联网公司。\n\n可以看到，上面这些巨头很早就成立了。他就下了一个结论，2010年以后的互联网创业，根本没有机会成为行业巨头。\n我想了想，好像真是这样，想不起来哪一家国外的互联网巨头是近十年成立的。\n那么，中国的情况呢？我就去查了一下。\n\n中国互联网巨头，大部分的成立时间不晚于2010年，但是有三个例外。\n\n这三家公司中，快手和字节的核心业务是短视频，而短视频是2010年以后出现的。因此，传统互联网业务上能做大的新公司，大概只有拼多多一家。\n所以对于中国，上面的结论也基本成立：2010年之后，互联网创业想要做大，机会急剧减少。\n为什么会这样？\n那个老外的解释是，只有在行业诞生初期成立的公司，才有机会成为行业巨头。\n你想想看，微软和苹果成立于个人电脑的诞生初期；亚马逊、谷歌、脸书、腾讯、阿里成立于互联网诞生初期。\n最近一次创业窗口则是2007年到2010年前后，因为 iPhone 是2007年发布的，移动互联网时代来临。\n新事物的诞生初期，是机会最多的时候。 因为没有竞争对手，而市场却在指数式增长，你简简单单做一个东西，都能吸引到大量用户。你可以探索各个方向，只要有一个方向对了，你就是那个方向的领导者，有的是做大的机会。\n等到行业逐渐成熟，各个方向都被先行者占据了，后来者再想做大就难了，主要有下面几个原因。\n（1）现有市场接近饱和，参与的公司林立，竞品众多。\n（…",
-          "link": "http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html",
-          "publishedOn": "2023-04-28T00:20:58.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 252 期）：互联网创业变难了",
           "imageUrl": null
         }
       ]
