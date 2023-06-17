@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/smashingconf-sanfrancisco2023-recap/",
+          "author": "hello@smashingmagazine.com (Ren Chen)",
+          "description": "One way of getting a more behind-the-scenes experience of any Smashing event is to apply as a volunteer, and Ren did just that! The SmashingConf team organized a conference in good ol’ San Francisco this year, and here’s pretty much how it went down.",
+          "link": "https://smashingmagazine.com/2023/06/smashingconf-sanfrancisco2023-recap/",
+          "publishedOn": "2023-06-16T08:00:00.000Z",
+          "wordCount": 3838,
+          "title": "What Was SmashingConf In San Franciso Like?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashingconf-sanfrancisco2023-recap/smashingconf-sanfrancisco2023-recap.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashingconf-sanfrancisco2023-recap/smashingconf-sanfrancisco2023-recap.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "[Codux](https://codux.hopp.to/smashing) is a new visual IDE brought to you by the fine folks over at[ Wix](https://www.wix.com/). It’s got a lot of low-code features that level the playing field for app development but is really designed for React developers. How so, you ask? That’s what we’re going to explore in this article.",
@@ -279,6 +294,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/",
+          "author": "Tim Kleier",
+          "description": "There are a number of AI tools for developers emerging on the market. But in my mind GitHub Copilot stands above the rest because of its usability, seamless IDE integration, and remarkable enhancements to developer productivity. Copilot offers a variety of AI tools that have radically streamlined my experience as",
+          "link": "https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/",
+          "publishedOn": "2023-06-16T17:02:17.000Z",
+          "wordCount": 2747,
+          "title": "How to Use GitHub Copilot to Become a Happier and More Productive Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-2023-06-14-at-12.42.04-PM.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/finally-understand-pointers-in-c/",
           "author": "Beau Carnes",
@@ -1058,36 +1083,6 @@
           "wordCount": 999,
           "title": "How to Build a Full Stack Application Using ChatGPT",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/chatdev.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/",
-          "author": "Kolade Chris",
-          "description": "Regular expressions let you match any string, be it in the form of various user inputs such as username, password, URL, and even different date formats. In this article, I’ll show you several ways you can match a date with regular expressions. In the programming world, there are always multiple",
-          "link": "https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/",
-          "publishedOn": "2023-05-18T12:41:17.000Z",
-          "wordCount": 1295,
-          "title": "RegEx for Date Formats – Regular Expressions for Matching Dates",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/dateRegEx.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/",
-          "author": "Brenda Chepkorir",
-          "description": "When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust",
-          "link": "https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/",
-          "publishedOn": "2023-05-17T23:40:59.000Z",
-          "wordCount": 1482,
-          "title": "Angular Upgrades That Will Improve Your Developer Experience",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-thisisengineering-3861958.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/",
-          "author": "Kolade Chris",
-          "description": "YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are",
-          "link": "https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/",
-          "publishedOn": "2023-05-17T14:48:51.000Z",
-          "wordCount": 1566,
-          "title": "How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/yamlRe.png"
         }
       ]
     },
@@ -1096,6 +1091,16 @@
       "feedUrl": "https://rsshub.app/meituan/tech/home",
       "siteUrl": "https://tech.meituan.com/feed/",
       "articles": [
+        {
+          "id": "https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html",
+          "author": "美团技术团队",
+          "description": "写在前面\nCVPR 全称为 IEEE Conference on Computer Vision and Pattern Recognition，国际计算机视觉与模式识别会议。该会议始于1983年，与ICCV和ECCV并称计算机视觉方向的三大顶级会议。根据谷歌学术公布的2022年最新学术期刊和会议影响力排名，CVPR在所有学术刊物中位居第4，仅次于Nature、NEJM和Science。2023年，CVPR共收到全球9155篇论文投稿，最终2360篇被接收，接收率约为25.78%。\n\n| 01 Divide and Adapt: Active Domain Adaptation via Customized Learning\n论文作者：黄铎峻（中山大学，美团实习生），李继昌（香港大学），陈伟凯（腾讯-美国），黄君实（美团），柴振华（美团），李冠彬（中山大学）\n论文下载：PDF\n\n论文简介：该论文入选焦点论文（Highlight Paper）。近年来，主动领域自适应被提出用于在领域自适应问题中，设计主动学习算法在未标注的目标域数据中选择最有信息量的一小批样本进行标注，来最大化的提升深度学习模型在目标域数据上的性能，达到高效的标注效率。在实际的开放场景中，目标域样本相对于源域数据的可区分度各异，即对于源域上初始化的而言具有不同层次的可迁移性。目前，鲜有工作对可迁移性各异的目标域样本分类讨论，设计高价值样本的采样策略和定制化的领域自适应训练策略。\n我们提出了一种分而治之的策略，综合考虑目标域样本与源域数据的差异性，和模型预测的不确定性，来设计主动学习的采样策略，并提出定制化的目标函数来约束具有不同可迁移性的样本子集，进一步实现采样的鲁棒性。实验表明，我们实现了在多种领域自适应场景下的最优性能，包括无监督领域自适应（UDA）、半监督领域自适应（SSDA）和无源域领域自适应（SFDA…",
+          "link": "https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html",
+          "publishedOn": "2023-06-16T00:00:00.000Z",
+          "wordCount": 145,
+          "title": "CVPR 2023 | 美团技术团队精选论文解读",
+          "imageUrl": null
+        },
         {
           "id": "https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html",
           "author": "美团技术团队",
@@ -1114,16 +1119,6 @@
           "publishedOn": "2023-05-26T00:00:00.000Z",
           "wordCount": 70,
           "title": "超大规模数据库集群保稳系列之二：数据库攻防演练建设实践",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html",
-          "author": "美团技术团队",
-          "description": "1. 背景\n美团 Robust 是基于方法插桩的实时热修复框架，主要优势是实时生效、零 Hook 兼容所有 Android 版本。2016 年，我们在《Android 热更新方案 Robust》一文中对技术原理做了详细介绍，主要通过给每个方法插入 IF 分支来动态控制代码逻辑，进而实现热修复。其核心主要有两部分：一个是代码插桩，一个是自动补丁。\n\n代码插桩这部分随着 Javassist、ASM 工具的广泛使用，整体方案比较成熟了，迭代改进主要是针对插桩代码体积和性能的优化；\n自动补丁这部分在实际使用过程中一直在迭代，跟业界主流热修复方案一样，自动化补丁工具作制作时机是在 Proguard 混淆之后，由于 Proguard 会对代码进行代码优化和混淆处理，在 Proguard 后制作补丁能够降低补丁生成的复杂性。\n\n近年来， Google 推出了新的代码优化混淆工具 R8，用于取代第三方的代码优化混淆工具 Proguard，经过多年功能迭代和缺陷改进，R8 在功能上基本可以替代 Proguard，在结果上更为出色（优化生成的 Android 字节码体积更小）。Google 已经在新版本的构建工具中强制使用 R8 ，国内外已有多个知名 App 完成了 R8 适配并上线，比如微信 Android 在今年正式从 Proguard 切换到了 R8（通过升级 Android 构建工具链）。Android 热修复补丁制作依赖二次构建包和线上包对比，需要对 Proguard 切换到 R8 提前进行适配和改造，本文分享了美团平台技术部 Robust 在适配 R8 以及优化改进中的一些思路和经验。\n2. 主要挑战\nAndroid 热修复补丁的大致制作流程：首先基于线上代码进行逻辑修复并二次打包，然后补丁生成工具自动比较修复包和线上包的差异，最后制作出轻量的补丁包。因此在补丁制作的过程中，需要解…",
-          "link": "https://tech.meituan.com/2023/05/18/robust-2.0-android-r8.html",
-          "publishedOn": "2023-05-18T00:00:00.000Z",
-          "wordCount": 671,
-          "title": "Robust 2.0：支持Android R8的升级版热修复框架",
           "imageUrl": null
         }
       ]
