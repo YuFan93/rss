@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufan93.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-01T01:37:38.159Z</updated>
+    <updated>2023-07-02T01:26:44.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yufan93.github.io/rss/index.html"/>
     <link rel="self" href="https://yufan93.github.io/rss/feed.atom"/>
@@ -945,99 +945,6 @@ N+1架构：在业界也称散部或者多AZ部署⽅案，将容量为C的系�
         <summary type="html"><![CDATA[This tutorial is for when CTRL + F is not enough. 🔥 I bet I've used the CTRL + F shortcut more than any other keyboard shortcut in my life. CTRL + Z probably comes close, but I use CTRL + F to find things... 💥ALL 💥 💥💥THE 💥💥 💥💥💥TIME]]></summary>
         <author>
             <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iA Presenter: A Case Study On Product Pricing Considerations]]></title>
-        <id>https://smashingmagazine.com/2023/06/ia-presenter-case-study-product-pricing-considerations/</id>
-        <link href="https://smashingmagazine.com/2023/06/ia-presenter-case-study-product-pricing-considerations/"/>
-        <updated>2023-06-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pricing a product or service is one of the more challenging aspects of product development. Pricing is an inexact science, and chances are you will not get it right the first time. But where do you even begin? Let’s explore the important considerations that go into product pricing.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html"/>
-        <updated>2023-06-01T23:58:21.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-河南省驻马店市赶在大雨之前，连夜抢收小麦，100架无人机提供夜间照明。这种无人机带着电线升空，通过地面车辆供电，可以连续照明10小时。（via）
-黄仁勋的 Nvidia 故事
-黄仁勋大概是硅谷最有影响力的华人。
-
-1993年，他跟两个朋友一起创办了芯片设计公司 Nvidia（中文名"英伟达"）。当时是小公司，可现在是美国第五大科技公司（仅次于苹果、微软、谷歌和亚马逊）。
-十年前，如果你买了 Nvidia 的股票，现在都要笑死了，因为它上涨了105倍！最近十年美国涨幅第一名的股票就是它。
-
-上周，黄仁勋突然出现在台湾，被拍到在饶河街夜市买小吃。
-
-后来大家才知道，他要参加5月27日的台大毕业典礼，他是今年的演讲嘉宾。
-
-我推荐这个演讲，网上有全文。原文是英语，已经译成中文。
-他只讲了20分钟，但是解开了我心中一直的疑问：Nvidia 是怎么发家的。下面就是我根据这个演讲，整理出来的 Nvidia 的故事。
-黄仁勋说，为什么要创立 Nvidia？因为我们看好加速计算。
-人类对计算速度的要求一定会越来越高，CPU 只能做通用计算，加速计算需要定制的专用硬件，所以我们的创业目标就是加速计算的硬件。
-市场需求量最大的加速计算硬件，就是游戏的图形芯片（GPU），所以我们选择游戏显卡作为创业产品。我们只做芯片设计，生产全部外包。
-1994年，我们的第一个客户是日本游戏公司 SEGA，我们为它的游戏主机设计显卡。
-
-（图片说明：Nvidia 的第一个产品，SEGA 游戏机的 NV1 显卡。）
-但是第二年，微软发布了 Windows 平台的图形接口 Direct3D。我们一下子就慌了，因为它跟我们的设计是冲突的。…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose a CMS – Tips for Content Management Systems]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-choose-a-cms/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-choose-a-cms/"/>
-        <updated>2023-06-01T23:06:02.000Z</updated>
-        <summary type="html"><![CDATA[If you're an entrepreneur or a developer, chances are you'll work with a content management systems (CMS) at some point. And knowing how to analyze the many features of the CMS options out there is important when choosing the right one for your use case. In this article, I'll explain]]></summary>
-        <author>
-            <name>Scott Gary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build AI Apps with ChatGPT, Dall-E, and GPT-4]]></title>
-        <id>https://www.freecodecamp.org/news/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/"/>
-        <updated>2023-06-01T17:55:28.000Z</updated>
-        <summary type="html"><![CDATA[You can level up your web development skills by harnessing the power of AI. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build AI apps with ChatGPT, Dall-E, and GPT-4. This course is designed to equip you with the knowledge and skills]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Build Graph Databases with Neo4j (Full Course)]]></title>
-        <id>https://www.freecodecamp.org/news/learn-neo4j-database-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-neo4j-database-course/"/>
-        <updated>2023-06-01T16:49:15.000Z</updated>
-        <summary type="html"><![CDATA[Neo4j is revolutionizing the way we handle complex relationships between data points. Its intuitive graph-based structure provides a flexible and efficient solution for various applications. We just published a Neo4j course on the freeCodeCamp.org YouTube channel. Whether you're a developer, a data scientist, or an aspiring technology enthusiast, this course]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LangChain Tutorial – How to Build a Custom-Knowledge Chatbot]]></title>
-        <id>https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/</id>
-        <link href="https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/"/>
-        <updated>2023-06-01T15:41:20.000Z</updated>
-        <summary type="html"><![CDATA[You may have read about the large number of AI apps that have been released over the last couple of months. You may have even started using some of them. AI tools such as ChatPDF [https://www.chatpdf.com/] and CustomGPT AI [https://customgpt.ai/use-cases/] have become very useful to people – and for good]]></summary>
-        <author>
-            <name>Shane Duggan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Data Visualization is Important for UX Design]]></title>
-        <id>https://www.freecodecamp.org/news/why-data-visualization-is-important-for-ux-design/</id>
-        <link href="https://www.freecodecamp.org/news/why-data-visualization-is-important-for-ux-design/"/>
-        <updated>2023-06-01T15:39:07.000Z</updated>
-        <summary type="html"><![CDATA[These days, we find ourselves consuming vast amounts of information, at an unprecedented rate. From online transactions, to social media interactions, to scientific research, the complexity of data grows exponentially. This reveals a challenge — how to transform this raw data to actionable insight.  This is where data visualization]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
         </author>
     </entry>
 </feed>

@@ -286,21 +286,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/ia-presenter-case-study-product-pricing-considerations/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "Pricing a product or service is one of the more challenging aspects of product development. Pricing is an inexact science, and chances are you will not get it right the first time. But where do you even begin? Let’s explore the important considerations that go into product pricing.",
-          "link": "https://smashingmagazine.com/2023/06/ia-presenter-case-study-product-pricing-considerations/",
-          "publishedOn": "2023-06-02T08:00:00.000Z",
-          "wordCount": 5100,
-          "title": "iA Presenter: A Case Study On Product Pricing Considerations",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ia-presenter-case-study-product-pricing-considerations/ia-presenter-case-study-product-pricing-considerations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ia-presenter-case-study-product-pricing-considerations/ia-presenter-case-study-product-pricing-considerations.jpg"
         }
       ]
     },
@@ -928,56 +913,6 @@
           "wordCount": 1312,
           "title": "Google Sheets – How to Make a Dynamic Search Bar",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Google-Sheets-Dynamic-Search-Bar-with-profile.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-choose-a-cms/",
-          "author": "Scott Gary",
-          "description": "If you're an entrepreneur or a developer, chances are you'll work with a content management systems (CMS) at some point. And knowing how to analyze the many features of the CMS options out there is important when choosing the right one for your use case. In this article, I'll explain",
-          "link": "https://www.freecodecamp.org/news/how-to-choose-a-cms/",
-          "publishedOn": "2023-06-01T23:06:02.000Z",
-          "wordCount": 1843,
-          "title": "How to Choose a CMS – Tips for Content Management Systems",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/how-to-choose-cms.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/",
-          "author": "Beau Carnes",
-          "description": "You can level up your web development skills by harnessing the power of AI. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build AI apps with ChatGPT, Dall-E, and GPT-4. This course is designed to equip you with the knowledge and skills",
-          "link": "https://www.freecodecamp.org/news/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/",
-          "publishedOn": "2023-06-01T17:55:28.000Z",
-          "wordCount": 1070,
-          "title": "Build AI Apps with ChatGPT, Dall-E, and GPT-4",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/aiapps.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-neo4j-database-course/",
-          "author": "Beau Carnes",
-          "description": "Neo4j is revolutionizing the way we handle complex relationships between data points. Its intuitive graph-based structure provides a flexible and efficient solution for various applications. We just published a Neo4j course on the freeCodeCamp.org YouTube channel. Whether you're a developer, a data scientist, or an aspiring technology enthusiast, this course",
-          "link": "https://www.freecodecamp.org/news/learn-neo4j-database-course/",
-          "publishedOn": "2023-06-01T16:49:15.000Z",
-          "wordCount": 994,
-          "title": "Learn to Build Graph Databases with Neo4j (Full Course)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/neo4j.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/",
-          "author": "Shane Duggan",
-          "description": "You may have read about the large number of AI apps that have been released over the last couple of months. You may have even started using some of them. AI tools such as ChatPDF [https://www.chatpdf.com/] and CustomGPT AI [https://customgpt.ai/use-cases/] have become very useful to people – and for good",
-          "link": "https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/",
-          "publishedOn": "2023-06-01T15:41:20.000Z",
-          "wordCount": 2722,
-          "title": "LangChain Tutorial – How to Build a Custom-Knowledge Chatbot",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/ThumbnailArticle--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-data-visualization-is-important-for-ux-design/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "These days, we find ourselves consuming vast amounts of information, at an unprecedented rate. From online transactions, to social media interactions, to scientific research, the complexity of data grows exponentially. This reveals a challenge — how to transform this raw data to actionable insight.  This is where data visualization",
-          "link": "https://www.freecodecamp.org/news/why-data-visualization-is-important-for-ux-design/",
-          "publishedOn": "2023-06-01T15:39:07.000Z",
-          "wordCount": 2066,
-          "title": "Why Data Visualization is Important for UX Design",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg"
         }
       ]
     },
@@ -1041,16 +976,6 @@
           "publishedOn": "2023-06-09T00:02:46.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 258 期）：卡马克的猫",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n封面图\n\n河南省驻马店市赶在大雨之前，连夜抢收小麦，100架无人机提供夜间照明。这种无人机带着电线升空，通过地面车辆供电，可以连续照明10小时。（via）\n黄仁勋的 Nvidia 故事\n黄仁勋大概是硅谷最有影响力的华人。\n\n1993年，他跟两个朋友一起创办了芯片设计公司 Nvidia（中文名\"英伟达\"）。当时是小公司，可现在是美国第五大科技公司（仅次于苹果、微软、谷歌和亚马逊）。\n十年前，如果你买了 Nvidia 的股票，现在都要笑死了，因为它上涨了105倍！最近十年美国涨幅第一名的股票就是它。\n\n上周，黄仁勋突然出现在台湾，被拍到在饶河街夜市买小吃。\n\n后来大家才知道，他要参加5月27日的台大毕业典礼，他是今年的演讲嘉宾。\n\n我推荐这个演讲，网上有全文。原文是英语，已经译成中文。\n他只讲了20分钟，但是解开了我心中一直的疑问：Nvidia 是怎么发家的。下面就是我根据这个演讲，整理出来的 Nvidia 的故事。\n黄仁勋说，为什么要创立 Nvidia？因为我们看好加速计算。\n人类对计算速度的要求一定会越来越高，CPU 只能做通用计算，加速计算需要定制的专用硬件，所以我们的创业目标就是加速计算的硬件。\n市场需求量最大的加速计算硬件，就是游戏的图形芯片（GPU），所以我们选择游戏显卡作为创业产品。我们只做芯片设计，生产全部外包。\n1994年，我们的第一个客户是日本游戏公司 SEGA，我们为它的游戏主机设计显卡。\n\n（图片说明：Nvidia 的第一个产品，SEGA 游戏机的 NV1 显卡。）\n但是第二年，微软发布了 Windows 平台的图形接口 Direct3D。我们一下子就慌了，因为它跟我们的设计是冲突的。…",
-          "link": "http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html",
-          "publishedOn": "2023-06-01T23:58:21.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事",
           "imageUrl": null
         }
       ]
