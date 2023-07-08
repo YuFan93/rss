@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/07/shines-perspective-rotations-css-3d-effects-images/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "CSS has all kinds of tricks that are capable of turning images into neat, interactive elements. This article is a collection of fancy 3D effects for images that demonstrate those CSS powers.",
+          "link": "https://smashingmagazine.com/2023/07/shines-perspective-rotations-css-3d-effects-images/",
+          "publishedOn": "2023-07-07T11:00:00.000Z",
+          "wordCount": 5868,
+          "title": "Shines, Perspective, And Rotations: Fancy CSS 3D Effects For Images",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/shines-perspective-rotations-css-3d-effects-images/shines-perspective-rotations-css-3d-effects-images.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/shines-perspective-rotations-css-3d-effects-images/shines-perspective-rotations-css-3d-effects-images.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
           "author": "hello@smashingmagazine.com (Robert Goesch)",
           "description": "As of today, the world’s 50 top airlines have all agreed on the same flight search pattern. Yet the path to booking the right flight remains frustrating and confusing. Is there really only one solution? Or are they afraid to break the mold? Explore the thought experiment which turned the seemingly untouchable pattern on its head.",
@@ -264,6 +279,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/",
+          "author": "Shittu Olumide",
+          "description": "Python is a versatile and widely used programming language known for its simplicity and readability.  With its ever-evolving nature, different versions of Python are often released, each offering new features, enhancements, and bug fixes.  As a Python developer, it is crucial to be aware of the Python version",
+          "link": "https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/",
+          "publishedOn": "2023-07-07T22:31:51.000Z",
+          "wordCount": 1827,
+          "title": "Check Python Version – How to Check Py in Mac, Windows, and Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Check-Python-Version---How-to-Check-Py-in-Mac--Windows--and-Linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-tier-list-maker/",
+          "author": "Atharva Shah",
+          "description": "Hello Pythonistas! Do you want to level up your Python and API skills while also building something really useful? Well, then you're in the right place. This hands-on tutorial showcases how to leverage Python's capabilities to code an interactive tiered list builder right within your terminal.  We'll use some",
+          "link": "https://www.freecodecamp.org/news/python-tier-list-maker/",
+          "publishedOn": "2023-07-07T20:48:16.000Z",
+          "wordCount": 4913,
+          "title": "How to Build a Tiered List Maker with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/python-tier-list-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-list-to-string-how-to-convert-lists-in-python/",
+          "author": "Shittu Olumide",
+          "description": "Whether you need to save a list as a text file, display it in a user-friendly format, or pass it as a parameter to a function, knowing how to convert a list to a string is essential. In this tutorial, we will explore various methods to convert Python lists to",
+          "link": "https://www.freecodecamp.org/news/python-list-to-string-how-to-convert-lists-in-python/",
+          "publishedOn": "2023-07-07T18:10:59.000Z",
+          "wordCount": 2072,
+          "title": "Python List to String – How to Convert Lists in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-List-to-String---How-to-Convert-Lists-in-Python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/n-plus-one-query-problem/",
+          "author": "Mohamed Mayallo",
+          "description": "The N+1 query problem is a performance issue you might face while building APIs, regardless of whether they're GraphQL or REST APIs. In fact, this problem occurs when your application needs to return a set of data that includes related nested data – for example, a post that includes comments.",
+          "link": "https://www.freecodecamp.org/news/n-plus-one-query-problem/",
+          "publishedOn": "2023-07-07T17:59:59.000Z",
+          "wordCount": 2571,
+          "title": "How to Avoid the N+1 Query Problem in GraphQL and REST APIs [with Benchmarks]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/N-1-Query-Problem.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-come-up-with-coding-project-ideas/",
+          "author": "Erin Borders",
+          "description": "If you're a developer looking to improve your coding skills, building projects is a great way to do that. But coming up with project ideas that actually make you eager to start can be tough. That's why I wrote this article: to help you learn how to come up with",
+          "link": "https://www.freecodecamp.org/news/how-to-come-up-with-coding-project-ideas/",
+          "publishedOn": "2023-07-07T17:57:52.000Z",
+          "wordCount": 1572,
+          "title": "How to Come Up With Good Coding Project Ideas",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/steve-johnson-lPX6-ee-1zU-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-import-from-file-importing-local-files-in-python/",
           "author": "Shittu Olumide",
@@ -883,26 +948,6 @@
           "wordCount": 12732,
           "title": "Front End JavaScript Development Handbook – React, Angular, and Vue Compared",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/frontend-framework-cover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/rust-programming-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Rust is a safe, concurrent, and practical language that guarantees memory safety and prevents runtime errors, making it increasingly popular among developers and big tech firms like Microsoft and Google. With its efficiency, growing industry demand, and robust features, learning Rust opens up exciting opportunities in systems programming and beyond.",
-          "link": "https://www.freecodecamp.org/news/rust-programming-course-for-beginners/",
-          "publishedOn": "2023-06-08T12:43:38.000Z",
-          "wordCount": 989,
-          "title": "Complete Rust Programming Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/rust.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-up-tailwind-css-with-next-js/",
-          "author": "Kelvin Moses",
-          "description": "Tailwind CSS is a popular utility-first CSS framework that offers a unique approach to building modern and responsive user interfaces. Unlike traditional CSS frameworks that provide pre-designed components, Tailwind CSS focuses on providing a comprehensive set of utility classes that you can directly apply to your HTML elements. When combined",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-tailwind-css-with-next-js/",
-          "publishedOn": "2023-06-07T21:37:50.000Z",
-          "wordCount": 1800,
-          "title": "How to Set Up Tailwind CSS with NextJS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Tutorials.png"
         }
       ]
     },
@@ -911,6 +956,26 @@
       "feedUrl": "https://rsshub.app/meituan/tech/home",
       "siteUrl": "https://tech.meituan.com/feed/",
       "articles": [
+        {
+          "id": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html",
+          "author": "美团技术团队",
+          "description": "| B站视频：美团数据库自治服务平台建设\n1 背景&目标\nMySQL的故障与SQL的性能，是DBA跟研发同学每天都需要关注的两个重要问题，它们直接影响着数据库跟业务应用程序的稳定性。而当故障或者SQL性能问题发生时，如何快速发现、分析以及处理这些问题，使得数据库或者业务系统快速恢复，是一项比较大的挑战。\n针对此问题，美团数据库自治平台经过多轮的迭代建设，在多个场景下已经实现了异常的发现、分析以及处理的端到端能力。本文将跟大家分享一下我们平台建设的心路历程，同时提供一些经验、教训供同行参考，希望能够起到“抛砖引玉”的作用。本文主要介绍以下主题：\n\n异常发现：基于数理统计方式的动态阀值策略，来发现数据库系统的指标异常。\n故障分析：丰富完善数据库关键信息，来做精确的数据库异常根因分析；深入挖掘内核价值，来解决根因诊断方面的疑难杂症。\n故障处理：依据异常根因分析的不同结果，通过自助化或自动化的方式来进行故障的恢复处理。\n内核可观测性建设：如何跟数据库内核团队合作，从内核的角度来分析SQL性能问题，通过内核团队大量的内核代码改造，力求将数据库的可观测性跟诊断做到极致。\n单SQL优化建议：通过改造MySQL存储引擎，同时结合查询优化来打造基于Cost模式的索引优化建议。\n基于workload索引优化建议：基于整个DB或者实例的Workload策略的索引优化建议，为实现数据库的索引自维护提供前置条件。\n基于SQL生命周期的治理：实现从SQL上线前、执行过程中、执行完毕后几个环节，以期实现端到端的慢SQL治理。\n\n2 平台演进策略\n美团数据库自治平台从下到上总体分为四层，分别为接口与展示、平台功能层，计算与存储、数据采集层，平台的总体架构以及每一层的作用如下：\n\n\n数据库采集层：要进行数据库的诊断与分析，需要依靠关键的指标以及SQL文本数据，当前在每个数据库实例上部署一个数据采集程序（rd…",
+          "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-01.html",
+          "publishedOn": "2023-07-06T00:00:00.000Z",
+          "wordCount": 341,
+          "title": "MySQL自治平台建设的内核原理及实践（上）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html",
+          "author": "美团技术团队",
+          "description": "| B站视频：美团数据库自治服务平台建设\n0 前文回顾\n在《MySQL自治平台建设的内核原理及实践（上）》一文中，我们主要介绍了数据库的异常发现与诊断方面的内容，在诊断方面经常会碰到一些难以找出根因的Case。针对这些疑难杂症Case，通过本篇可以了解到，如何通过内核可观测性以及全量SQL来解决这些问题。除此之外，在得出根因后，如何处理异常，如何对SQL进行优化，以及如何进行SQL治理等相关方面问题，也将在本篇中给予解答。\n1 内核可观测性建设\n1.1 内核可观测性建设\n1.1.1 性能诊断挑战\n在自治性能诊断平台的建设过程中，我们发现如下两大挑战：\n\n很多SQL性能抖动的问题找不出根因，比如SQL的执行时长莫名其妙的突然变大，其执行计划良好、扫描跟返回的行数都很少，也没有行锁、MDL锁相关锁阻塞；查看慢查询日志，也没有哪个字段的耗时比较高，但是SQL的执行时长就是突然变长，有时候达到几十秒长，而平时往往是几毫秒，各种分析后找不出原因。\n有时候在诊断一些指标异常的根因时，凭借的是不太严格的经验，而不是量化分析，比如thread_running或者slow_queries值突然升高的时候，可能会通过表information_schema.processlist查看当前的活跃会话中线程的状态，看一下状态是不是有行锁或者MDL锁之类的阻塞，或者通过慢查询日志里的相关数据来诊断根因。这里的挑战是：我们看到的是整个SQL某个时间点的瞬时状态，或者只是整个SQL执行过程中的部分数据，而不是整体的数据，所以得出的根因诊断可能是片面的，也许一瞬间看到的是行锁，但是大部分时间被MDL锁阻塞。\n\n1.1.2 解决思路\n如果使用的是社区版本的MySQL，基本上都会面临上面两大问题。我们先从内核的角度分析一下这两个挑战，对于第一个挑战，主要是对MySQL在内核层面执行细节不够了解，比如一条SQL执…",
+          "link": "https://tech.meituan.com/2023/07/06/meituan-mysql-autonomous-platform-02.html",
+          "publishedOn": "2023-07-06T00:00:00.000Z",
+          "wordCount": 337,
+          "title": "MySQL自治平台建设的内核原理及实践（下）",
+          "imageUrl": null
+        },
         {
           "id": "https://tech.meituan.com/2023/06/16/cvpr-2023-meituan.html",
           "author": "美团技术团队",
