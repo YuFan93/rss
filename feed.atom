@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yufan93.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T01:23:59.763Z</updated>
+    <updated>2023-07-09T01:36:29.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yufan93.github.io/rss/index.html"/>
     <link rel="self" href="https://yufan93.github.io/rss/feed.atom"/>
@@ -985,93 +985,6 @@ CVPR 全称为 IEEE Conference on Computer Vision and Pattern Recognition，国�
         <summary type="html"><![CDATA[As a developer, you might need to run both Linux and Windows side by side. Luckily, there are a number of ways you can get the best of both worlds without getting different computers for each operating system.  In this article, we'll explore a few ways to use Linux]]></summary>
         <author>
             <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Under Constraints: Challenges, Opportunities, And Practical Strategies]]></title>
-        <id>https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/</id>
-        <link href="https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/"/>
-        <updated>2023-06-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 258 期）：卡马克的猫]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html"/>
-        <updated>2023-06-09T00:02:46.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
-封面图
-
-世界首架载人飞碟，6月3日在深圳正式起飞。这架飞碟是电动的，最大飞行高度200米，续航时间15分钟。（via）
-卡马克的猫
-推荐一本书《DOOM 启世录》（Masters of Doom），电子游戏名著，2003年在美国出版，第二年就出了中译本。
-
-它详细讲述了电子游戏《DOOM》（毁灭战士）的故事，两个怀揣梦想的青年，如何一步步创造出这个游戏。
-写得非常好，翻译得也好。通过它，可以了解游戏行业的内幕，以及程序员的人生。
-
-主人公之一，是一个叫做约翰·卡马克（John D. Carmack，1970-）的程序员，他编写了《DOOM》的主要代码。他原来只是一个辍学生，但是后来变得世界闻名。
-书里讲了一个他的小故事，分享给大家。
-
-卡马克小时候痴迷电脑，跟家人和同学都很疏远。陪伴他的只有一只叫做"咪子"（Mitzi）的猫。他编程时，猫就趴在电脑上面。
-
-19岁，他离开家，去另一个州创业，什么都没带，唯一从家里拿走的就是这只猫。它一直陪着他，甚至公司的员工名单里面，他也把这只猫加了进去。
-后来，DOOM 开发最紧张的那段时间，猫的脾气变得暴躁了，经常乱撒尿，卡马克新买的真皮沙发就被它毁了。
-卡马克不想忍了，尽管相陪多年，他还是把咪子送到了动物收容所，从此就不管它了。
-卡马克跟同事解释这个决定："咪子对我的生活产生了负面影响。" 其他人惊讶地说："送到动物收容所，这只猫可能会死掉。" 卡马克不为所动，转过身继续去编程。
-作者说，这个事件反映了卡马克的性格。他只关心他要写的程序，在他眼里，其他都是小事，如果妨碍到他，就必须剔除。
-他不仅这样对待猫，也这样对待朋友和自己。他从不保存自己的照片、资料、早期作品…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超大规模数据库集群保稳系列之三：美团数据库容灾体系建设实践]]></title>
-        <id>https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html</id>
-        <link href="https://tech.meituan.com/2023/06/09/meituan-database-recovery-system.html"/>
-        <updated>2023-06-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1 容灾介绍
-我们通常会把故障分为三大类，一是主机故障，二是机房故障，三是地域故障。每类故障都有各自的诱发因素，而从主机到机房再到地域，故障发生概率依次越来越小，而故障的影响却越来越大。
-容灾能力的建设目标是非常明确的，就是要能够应对和处理这种机房级和地域级的大规模故障，从而来保障业务的连续性。近几年，业界也发生了多次数据中心级别的故障，对相关公司的业务和品牌产生了非常大的负面影响。当前容灾能力已经成为众多IT企业建设信息化系统的必选项。
-
-2 业务容灾架构
-2.1 容灾架构演进
-容灾架构从最早期的单活形态（同城主备）到同城多活形态，再演化到异地多活，根据这个路径可以将容灾分为容灾1.0、容灾2.0、容灾3.0三个阶段。
-
-容灾1.0：容灾体系围绕数据建设，多以主-备的方式部署，但备用机房不承担流量，基本上都是单活结构。
-容灾2.0：容灾视角从数据转换为应用系统，业务具有同城双活或同城多活能力，采用同城双活或同城双活加异地冷备（两地三中心）的部署架构，除冷备以外的每个机房都有流量处理能力。
-容灾3.0：以业务为中心，多采用单元化架构，容灾基于单元间的两两互备实现，根据单元的部署位置可以实现同城多活和异地多活。采用单元化架构的应用本身具有很好的容灾能力和扩展能力。
-
-
-由于各公司所处发展阶段不同，采用的方案也会有所区别，美团大部分业务处于2.0阶段（即同城双活或多活架构），但对于大体量、有地域容灾及有地域扩展性要求的业务则处在容灾3.0阶段。下面会介绍一下美团的容灾架构。
-2.2 美团容灾架构
-美团的容灾架构主要包括两种，一种是N+1容灾架构，一种是SET化架构。
-N+1架构：在业界也称散部或者多AZ部署⽅案，将容量为C的系统部署在N+1个机房，每个机房能提供至少C/N的容量，挂掉任何一个机房时，剩余系统仍能支撑C的容量。该方案的核心是把容灾能力下沉到PaaS组件来完成，在出…]]></summary>
-        <author>
-            <name>美团技术团队</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Your Java Development Environment]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-java-development-environment-a-comprehensive-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-java-development-environment-a-comprehensive-guide/"/>
-        <updated>2023-06-08T20:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Setting up an efficient Java development environment is key if you're a Java dev. It helps streamline your coding process and makes you more productive.  In this article, I will walk you through the important steps you need to set up a Java development environment. We'll cover how to]]></summary>
-        <author>
-            <name>Isah Jacob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front End JavaScript Development Handbook – React, Angular, and Vue Compared]]></title>
-        <id>https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/</id>
-        <link href="https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/"/>
-        <updated>2023-06-08T13:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Frontend frameworks are indispensable in web development. They provide structured approaches and pre-defined components to streamline the coding process.  These tools can also help boost productivity by offering reusable components and abstracting complex tasks like DOM manipulation and state management. This allows developers to focus on application logic rather]]></summary>
-        <author>
-            <name>Adekola Olawale</name>
         </author>
     </entry>
 </feed>
